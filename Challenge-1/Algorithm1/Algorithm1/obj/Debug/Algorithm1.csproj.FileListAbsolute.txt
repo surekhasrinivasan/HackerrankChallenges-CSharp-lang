@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\bin\Debug\Algorithm1.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\bin\Debug\Algorithm1.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\obj\Debug\Algorithm1.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\obj\Debug\Algorithm1.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Challenge-1\Algorithm1\Algorithm1\obj\Debug\Algorithm1.pdb
