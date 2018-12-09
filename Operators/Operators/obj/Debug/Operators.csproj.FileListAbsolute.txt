@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Operators\Operators\obj\Debug\Operators.pdb
