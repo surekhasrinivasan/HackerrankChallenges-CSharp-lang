@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\bin\Debug\ClassVsInstance.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\bin\Debug\ClassVsInstance.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\bin\Debug\ClassVsInstance.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ClassVsInstance\ClassVsInstance\obj\Debug\ClassVsInstance.pdb
