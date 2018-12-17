@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\bin\Debug\loops.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\bin\Debug\loops.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\bin\Debug\loops.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\obj\Debug\loops.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\obj\Debug\loops.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\loops\loops\obj\Debug\loops.pdb
