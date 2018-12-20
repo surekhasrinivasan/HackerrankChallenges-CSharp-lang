@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\bin\Debug\StringAlgorithm.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\bin\Debug\StringAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\bin\Debug\StringAlgorithm.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\obj\Debug\StringAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\obj\Debug\StringAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\obj\Debug\StringAlgorithm.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringAlgorithm\StringAlgorithm\obj\Debug\StringAlgorithm.csprojAssemblyReference.cache
