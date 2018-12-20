@@ -14,7 +14,28 @@ namespace StringAlgorithm
         */
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Enter a string: ");
+            string myStr = Console.ReadLine();
+
+            char[] myCharArray = myStr.ToCharArray();
+
+            for (int i = 0; i < myStr.Length; i++)
+            {
+                if ((i == 0) || (i % 2 == 0))
+                {
+                    Console.Write(myCharArray[i]);
+
+                }
+            }
+            Console.Write(" ");
+            for (int j = 0; j < myStr.Length; j++)
+            {
+                if (j % 2 == 1)
+                {
+                    Console.Write(myCharArray[j]);
+                }
+            }
+            Console.WriteLine();
         }
     }
 }
