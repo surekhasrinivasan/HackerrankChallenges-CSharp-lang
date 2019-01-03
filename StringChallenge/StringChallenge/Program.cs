@@ -17,7 +17,7 @@ namespace StringChallenge
             Console.WriteLine(firstNonRepeatChar);
         }
 
-        // function loops through the string and returns first non-repeating character 
+        // function loops through the string and returns first non-repeating character if not returns '_'
         public static char firstNonRepeatingCharacter(string str)
         {
             char letter;
