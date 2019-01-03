@@ -7,7 +7,13 @@ namespace StringChallenge
     {
         static void Main()
         {
-            char firstNonRepeatChar = firstNonRepeatingCharacter("abcdabc");
+            //char firstNonRepeatChar = firstNonRepeatingCharacter("abcdabc");
+            //Console.WriteLine(firstNonRepeatChar);
+
+            Console.WriteLine("Enter a string: ");
+            string str1 = Console.ReadLine();
+
+            char firstNonRepeatChar = firstNonRepeatingCharacter(str1);
             Console.WriteLine(firstNonRepeatChar);
         }
 
