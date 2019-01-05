@@ -26,7 +26,20 @@ namespace StringChallenge2
     {
         static void Main(string[] args)
         {
-            
-        }       
+            Console.WriteLine("Enter a string: ");
+            string str1 = Console.ReadLine();
+
+            Console.WriteLine("Enter another string: ");
+            string str2 = Console.ReadLine();
+
+            Console.WriteLine("Enter the string length: ");
+            int length = int.Parse(Console.ReadLine());
+
+            if (str1.Length != str2.Length)
+            {
+                Console.WriteLine("Both strings should be of same length");
+                return;
+            }
+        }
     }
 }
