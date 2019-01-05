@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\bin\Debug\StringChallenge2.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\bin\Debug\StringChallenge2.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\bin\Debug\StringChallenge2.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\obj\Debug\StringChallenge2.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\obj\Debug\StringChallenge2.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\obj\Debug\StringChallenge2.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringChallenge2\StringChallenge2\obj\Debug\StringChallenge2.pdb
