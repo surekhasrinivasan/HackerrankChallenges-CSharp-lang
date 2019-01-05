@@ -52,10 +52,12 @@ namespace StringChallenge2
             {
                 changeScore.Add(str2[i] - str1[i]);
             }
-            foreach(int score in changeScore)
-            {
-                Console.Write(score + " ");
+            Console.Write("[");
+            foreach (int score in changeScore)
+            {               
+                Console.Write(score + " ");                
             }
+            Console.Write("]");
             Console.WriteLine();
             return changeScore.ToArray();
         }
