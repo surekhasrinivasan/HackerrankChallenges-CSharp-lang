@@ -40,6 +40,24 @@ namespace StringChallenge2
                 Console.WriteLine("Both strings should be of same length");
                 return;
             }
+
+            int[] changeScore = GetChangeScore(str1, str2, length);
+        }
+
+        public static int[] GetChangeScore(string str1, string str2, int length)
+        {
+            List<int> changeScore = new List<int>();
+
+            for(int i = 0; i < length; i++)
+            {
+                changeScore.Add(str2[i] - str1[i]);
+            }
+            foreach(int score in changeScore)
+            {
+                Console.Write(score + " ");
+            }
+            Console.WriteLine();
+            return changeScore.ToArray();
         }
     }
 }
