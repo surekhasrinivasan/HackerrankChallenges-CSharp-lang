@@ -47,6 +47,7 @@ namespace StringChallenge2
         public static int[] GetChangeScore(string str1, string str2, int length)
         {
             List<int> changeScore = new List<int>();
+            int totalChangeScore = 0;
 
             for(int i = 0; i < length; i++)
             {
@@ -55,10 +56,13 @@ namespace StringChallenge2
             Console.Write("[");
             foreach (int score in changeScore)
             {               
-                Console.Write(score + " ");                
+                Console.Write(score + " ");
+                totalChangeScore = totalChangeScore + score;
             }
             Console.Write("]");
             Console.WriteLine();
+
+            Console.WriteLine("Total change score is: " + totalChangeScore);
             return changeScore.ToArray();
         }
     }
