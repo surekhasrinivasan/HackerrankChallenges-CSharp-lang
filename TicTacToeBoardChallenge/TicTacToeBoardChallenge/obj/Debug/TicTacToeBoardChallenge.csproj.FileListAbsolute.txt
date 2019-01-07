@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\bin\Debug\TicTacToeBoardChallenge.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\bin\Debug\TicTacToeBoardChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\bin\Debug\TicTacToeBoardChallenge.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\obj\Debug\TicTacToeBoardChallenge.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\obj\Debug\TicTacToeBoardChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\obj\Debug\TicTacToeBoardChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TicTacToeBoardChallenge\TicTacToeBoardChallenge\obj\Debug\TicTacToeBoardChallenge.pdb
