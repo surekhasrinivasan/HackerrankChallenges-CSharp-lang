@@ -1,0 +1,6 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FindDuplicatesChallenge\FindDuplicatesChallenge\bin\Debug\FindDuplicatesChallenge.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FindDuplicatesChallenge\FindDuplicatesChallenge\bin\Debug\FindDuplicatesChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FindDuplicatesChallenge\FindDuplicatesChallenge\bin\Debug\FindDuplicatesChallenge.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FindDuplicatesChallenge\FindDuplicatesChallenge\obj\Debug\FindDuplicatesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FindDuplicatesChallenge\FindDuplicatesChallenge\obj\Debug\FindDuplicatesChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FindDuplicatesChallenge\FindDuplicatesChallenge\obj\Debug\FindDuplicatesChallenge.pdb
