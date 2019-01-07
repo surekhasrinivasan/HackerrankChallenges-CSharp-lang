@@ -25,8 +25,9 @@ namespace FindDuplicatesChallenge
                         count++;
                         Console.WriteLine("The duplicate integers are: " + arr[i]);
                     }
-                }
+                }                
             }
+            Console.WriteLine("Total number of duplicate elements found in the array is: {0}", count);
         }
     }
 }
