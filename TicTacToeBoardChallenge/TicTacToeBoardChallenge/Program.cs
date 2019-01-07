@@ -11,7 +11,15 @@ namespace TicTacToeBoardChallenge
     {
         static void Main()
         {
+            int rows = 2;
 
+            for (int i = 0; i < rows; i++)
+            {
+                Console.WriteLine(" | | ");
+                Console.WriteLine("-+-+-");
+
+            }
+            Console.WriteLine(" | | ");
         }
     }    
 }
