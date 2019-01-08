@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\bin\Debug\IsPrimeChallenge.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\bin\Debug\IsPrimeChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\bin\Debug\IsPrimeChallenge.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\obj\Debug\IsPrimeChallenge.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\obj\Debug\IsPrimeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\obj\Debug\IsPrimeChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsPrimeChallenge\IsPrimeChallenge\obj\Debug\IsPrimeChallenge.pdb
