@@ -36,14 +36,31 @@ namespace JumpStatements
             // to a labeled statement in the same function. Make sure
             // Switch and goto statments are in there in the same method
 
-            int i = 1;
+            //int i = 1;
 
-            //label
-            abc:
-                Console.WriteLine(i);
-                i++;
-            if (i <= 10)
-                goto abc;
+            ////label
+            //abc:
+            //    Console.WriteLine(i);
+            //    i++;
+            //if (i <= 10)
+            //    goto abc;
+
+            // return - used to terminate the method and return the control to the calling method.
+
+            Console.WriteLine("Enter the first number: ");
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter the second number: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            if(num2 == 0)
+            {
+                Console.WriteLine("Cannot divide a number by 0");
+                return;
+            }
+
+            int result = num1 / num2;
+            Console.WriteLine("Result is: " + result);
         }
     }
 }
