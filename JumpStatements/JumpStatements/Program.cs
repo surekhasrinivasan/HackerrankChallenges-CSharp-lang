@@ -14,23 +14,36 @@ namespace JumpStatements
         static void Main(string[] args)
         {
             // Break is used to terminate the loop and switch statement
-            for(int i = 1; i <=10; i++)
-            {
-                if (i == 5)
-                    break;
-                Console.WriteLine("i is: " + i);
-            }
+            //for(int i = 1; i <=10; i++)
+            //{
+            //    if (i == 5)
+            //        break;
+            //    Console.WriteLine("i is: " + i);
+            //}
 
             // Continue forces the next iteration of the loop to take place, 
             // skipping any code in between
 
             // Continue can be used only inside a loop 
-            for (int i = 1; i <= 10; i++)
-            {
-                if (i == 5 || i == 7)
-                    continue;
-                Console.WriteLine("i is: " + i);
-            }
+            //for (int i = 1; i <= 10; i++)
+            //{
+            //    if (i == 5 || i == 7)
+            //        continue;
+            //    Console.WriteLine("i is: " + i);
+            //}
+
+            // goto - provides an unconditional jump from the 'goto'
+            // to a labeled statement in the same function. Make sure
+            // Switch and goto statments are in there in the same method
+
+            int i = 1;
+
+            //label
+            abc:
+                Console.WriteLine(i);
+                i++;
+            if (i <= 10)
+                goto abc;
         }
     }
 }
