@@ -20,6 +20,17 @@ namespace JumpStatements
                     break;
                 Console.WriteLine("i is: " + i);
             }
+
+            // Continue forces the next iteration of the loop to take place, 
+            // skipping any code in between
+
+            // Continue can be used only inside a loop 
+            for (int i = 1; i <= 10; i++)
+            {
+                if (i == 5 || i == 7)
+                    continue;
+                Console.WriteLine("i is: " + i);
+            }
         }
     }
 }
