@@ -11,28 +11,45 @@ namespace IsPrimeChallenge
         // Given a number find if it is Prime number or not 
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number: ");
-            int number = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Enter a number: ");
+            //int number = int.Parse(Console.ReadLine());
 
-            bool isprime = true;
+            //bool isprime = true;
 
-            for(int i = 2; i <= Math.Sqrt(number); i++)
+            //for(int i = 2; i <= Math.Sqrt(number); i++)
+            //{
+            //    if(number % i == 0)
+            //    {
+            //        isprime = false;
+            //        break;
+            //    }
+            //}
+
+            //if (isprime)
+            //{
+            //    Console.WriteLine("Number is PRIME");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Number is NOT PRIME");
+            //}
+
+            // Nesting loops and Printing all the prime numbers between 1 and 100
+            for(int num = 1; num <=100; num++)
             {
-                if(number % i == 0)
+                bool isprime = true;
+                for (int i = 2; i <= Math.Sqrt(num); i++)
                 {
-                    isprime = false;
-                    break;
+                    if (num % i == 0)
+                    {
+                        isprime = false;
+                        break;
+                    }
                 }
+                if(isprime)
+                    Console.Write(num + "\t");                     
             }
-
-            if (isprime)
-            {
-                Console.WriteLine("Number is PRIME");
-            }
-            else
-            {
-                Console.WriteLine("Number is NOT PRIME");
-            }
+            Console.WriteLine();
         }
     }
 }
