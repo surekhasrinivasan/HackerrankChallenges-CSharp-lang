@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\bin\Debug\SortingArrays.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\bin\Debug\SortingArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\bin\Debug\SortingArrays.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\obj\Debug\SortingArrays.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\obj\Debug\SortingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\obj\Debug\SortingArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SortingArrays\SortingArrays\obj\Debug\SortingArrays.pdb
