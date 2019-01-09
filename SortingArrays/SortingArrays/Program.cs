@@ -11,6 +11,7 @@ namespace SortingArrays
         // Given an array, sort it in ascending order or descending order
         static void Main(string[] args)
         {
+            // Bubble sort - n * (n-1) iterations 
             // sorting in ascending order
             int[] arr = new int[] { 7, 3, 5, 1, 9, 2 };
             int temp;
