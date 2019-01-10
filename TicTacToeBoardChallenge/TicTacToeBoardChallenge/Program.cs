@@ -22,19 +22,30 @@ namespace TicTacToeBoardChallenge
             //Console.WriteLine(" | | ");
 
             // Another version 
-            int rows = 5;
+            //int rows = 5;
+
+            //for (int i = 0; i < rows; i++)
+            //{
+            //    if (i % 2 == 0)
+            //    {
+            //        Console.WriteLine(" | | ");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("-+-+-");
+            //    }
+            //}
+
+            // Printing characters inside each cell
+            int rows = 4;
 
             for (int i = 0; i < rows; i++)
             {
-                if (i % 2 == 0)
-                {
-                    Console.WriteLine(" | | ");
-                }
-                else
-                {
-                    Console.WriteLine("-+-+-");
-                }
+                Console.WriteLine("o|x|o");
+                Console.WriteLine("-+-+-");
+
             }
+            Console.WriteLine("x|o|x");
         }
     }    
 }
