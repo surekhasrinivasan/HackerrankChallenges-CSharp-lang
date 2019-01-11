@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\obj\Debug\TypesOfArrays.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\obj\Debug\TypesOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\bin\Debug\TypesOfArrays.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\bin\Debug\TypesOfArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\bin\Debug\TypesOfArrays.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\obj\Debug\TypesOfArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TypesOfArrays\TypesOfArrays\obj\Debug\TypesOfArrays.pdb
