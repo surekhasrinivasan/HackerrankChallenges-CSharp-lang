@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SearchElementInArray
 {
-    // Linear Search 
+    // Linear Search in a single dimension array
 
     // Given an array, Search if the element is in the array or not 
     class Program
