@@ -11,13 +11,15 @@ namespace SumOfTwoNumbers
     {
         static void Main(string[] args)
         {
-            Add(10, 20);
+            int result = Add(20, 35);
+            Console.WriteLine(result);
         }
 
-        public static void Add(int num1, int num2)
+        public static int Add(int num1, int num2)
         {
             int sum = num1 + num2;
-            Console.WriteLine(sum);
+            //Console.WriteLine(sum);
+            return sum;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\SumOfTwoNumbers.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\SumOfTwoNumbers.pdb
