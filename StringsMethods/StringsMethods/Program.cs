@@ -57,8 +57,16 @@ namespace StringsMethods
 
             Console.WriteLine(str.EndsWith("on"));
 
+            // Usage of .Contains method
             Console.WriteLine(str.Contains("Boston"));
 
+            // Usage of .IndexOf method
+            Console.WriteLine(str.IndexOf("Th", StringComparison.CurrentCultureIgnoreCase));
+
+            Console.WriteLine(str.IndexOf("th", 3, StringComparison.CurrentCultureIgnoreCase));
+
+            // To find the length of the string using .Length property
+            Console.WriteLine(str.Length);
 
         }
     }
