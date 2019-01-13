@@ -15,8 +15,13 @@ namespace StringsMethods
             fname = "Surekha";
             lname = "Srinivasan";
 
+            // String concatination
             string fullname = fname + " " + lname;
-            Console.WriteLine("Full Name: {0}", fullname);            
+            Console.WriteLine("Full Name: {0}", fullname);
+
+            // Usage of string.concat()method
+            string fullName = string.Concat(fname, lname);
+            Console.WriteLine("Full Name: {0}", fullName);
         }
     }
 }
