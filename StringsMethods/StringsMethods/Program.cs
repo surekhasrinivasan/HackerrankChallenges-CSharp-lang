@@ -42,6 +42,15 @@ namespace StringsMethods
             DateTime datetime = new DateTime( 2019, 1, 12, 10, 35, 40 );
             string strdatetime = String.Format("Message sent at {0:t} on {0:D}", datetime);
             Console.WriteLine("Message: {0}", strdatetime);
+
+            // Usage of .ToUpper() and .ToLower() methods
+            string str = "This is the City of Boston";
+
+            string up = str.ToUpper();
+            Console.WriteLine(up);
+
+            string lower = str.ToLower();
+            Console.WriteLine(lower);
         }
     }
 }
