@@ -33,7 +33,10 @@ namespace StringsMethods
             char[] ch = hello.ToCharArray();
             Console.WriteLine(ch);
 
-
+            // Usage of string.join() method
+            string[] strarr = { "Hello", "from", "Surekha", "Srinivasan" };
+            string message = String.Join(" ", strarr);
+            Console.WriteLine("Message: {0}", message);
         }
     }
 }
