@@ -37,6 +37,11 @@ namespace StringsMethods
             string[] strarr = { "Hello", "from", "Surekha", "Srinivasan" };
             string message = String.Join(" ", strarr);
             Console.WriteLine("Message: {0}", message);
+
+            // Usage of string.format() method to convert a value
+            DateTime datetime = new DateTime( 2019, 1, 12, 10, 35, 40 );
+            string strdatetime = String.Format("Message sent at {0:t} on {0:D}", datetime);
+            Console.WriteLine("Message: {0}", strdatetime);
         }
     }
 }
