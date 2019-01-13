@@ -51,6 +51,15 @@ namespace StringsMethods
 
             string lower = str.ToLower();
             Console.WriteLine(lower);
+
+            // Usage of .StartsWith() and .EndsWith()
+            Console.WriteLine(str.StartsWith("Th"));
+
+            Console.WriteLine(str.EndsWith("on"));
+
+            Console.WriteLine(str.Contains("Boston"));
+
+
         }
     }
 }
