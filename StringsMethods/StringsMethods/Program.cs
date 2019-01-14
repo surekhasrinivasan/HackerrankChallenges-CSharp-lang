@@ -68,6 +68,21 @@ namespace StringsMethods
             // To find the length of the string using .Length property
             Console.WriteLine(str.Length);
 
+            // String vs. StringBuilder
+
+            // Strings are immutable.  
+
+            string str1 = "Las";
+            str1 = str1 + "Vegas";
+
+            Console.WriteLine(str1);
+
+            // StringBuilder is mutable. 
+            string str2 = "Las";
+            StringBuilder sb = new StringBuilder(str2);
+            sb.Append("Vegas");
+
+            Console.WriteLine(sb);
         }
     }
 }
