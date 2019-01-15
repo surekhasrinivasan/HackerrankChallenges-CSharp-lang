@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\bin\Debug\CalculatePercent.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\bin\Debug\CalculatePercent.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\bin\Debug\CalculatePercent.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\obj\Debug\CalculatePercent.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\obj\Debug\CalculatePercent.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\obj\Debug\CalculatePercent.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculatePercent\CalculatePercent\obj\Debug\CalculatePercent.pdb

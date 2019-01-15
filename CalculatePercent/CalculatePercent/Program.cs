@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CalculatePercent
 {
     // Demo program to show implentation of class 
-    class Program
+    class Test
     {
         int marks;
         void CalculatePercent()
@@ -18,7 +18,9 @@ namespace CalculatePercent
 
         static void Main(string[] args)
         {
-
+            Test t1 = new Test();
+            t1.marks = 43;
+            t1.CalculatePercent();
             
         }
     }    
