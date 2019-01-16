@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\bin\Debug\RemoveDuplicateCharacters.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\bin\Debug\RemoveDuplicateCharacters.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\bin\Debug\RemoveDuplicateCharacters.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\obj\Debug\RemoveDuplicateCharacters.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\obj\Debug\RemoveDuplicateCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\obj\Debug\RemoveDuplicateCharacters.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveDuplicateCharacters\RemoveDuplicateCharacters\obj\Debug\RemoveDuplicateCharacters.pdb
