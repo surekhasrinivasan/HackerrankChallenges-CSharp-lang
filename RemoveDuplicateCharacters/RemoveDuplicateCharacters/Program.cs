@@ -11,6 +11,28 @@ namespace RemoveDuplicateCharacters
     {
         static void Main(string[] args)
         {
-        }        
+        }
+        
+        static string RemoveDuplicateCharacters(string key)
+        {
+            // Store encountered letters in this string
+            string table = "";
+
+            // Store the result in this string
+            string result = "";
+
+            // Loop over each character
+            foreach(char value in key)
+            {
+                // See if character is in the table 
+                if(table.IndexOf(value) == -1)
+                {
+                    // Append to the table and the result
+                    table += value;
+                    result += value;
+                }
+            }
+            return result;
+        }
     }
 }
