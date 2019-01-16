@@ -21,7 +21,11 @@ namespace CalculatePercent
             Test t1 = new Test();
             t1.marks = 43;
             t1.CalculatePercent();
-            
+
+
+            Test t2 = new Test();
+            t2.marks = 38;
+            t2.CalculatePercent();
         }
     }    
 }
