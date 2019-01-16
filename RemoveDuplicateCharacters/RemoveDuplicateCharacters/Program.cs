@@ -11,6 +11,17 @@ namespace RemoveDuplicateCharacters
     {
         static void Main(string[] args)
         {
+            string value1 = RemoveDuplicateCharacters("Csharpstar");
+            string value2 = RemoveDuplicateCharacters("Google");
+            string value3 = RemoveDuplicateCharacters("Yahoo");
+            string value4 = RemoveDuplicateCharacters("CNN");
+            string value5 = RemoveDuplicateCharacters("Line1\nLine2\nLine3");
+
+            Console.WriteLine(value1);
+            Console.WriteLine(value2);
+            Console.WriteLine(value3);
+            Console.WriteLine(value4);
+            Console.WriteLine(value5);
         }
         
         static string RemoveDuplicateCharacters(string key)
