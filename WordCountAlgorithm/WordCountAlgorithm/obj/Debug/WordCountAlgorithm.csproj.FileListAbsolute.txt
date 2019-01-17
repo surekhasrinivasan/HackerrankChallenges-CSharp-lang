@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\bin\Debug\WordCountAlgorithm.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\bin\Debug\WordCountAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\bin\Debug\WordCountAlgorithm.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\obj\Debug\WordCountAlgorithm.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\obj\Debug\WordCountAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\obj\Debug\WordCountAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\WordCountAlgorithm\WordCountAlgorithm\obj\Debug\WordCountAlgorithm.pdb

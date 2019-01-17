@@ -11,8 +11,22 @@ namespace WordCountAlgorithm
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadKey();
+            int result = WordCount("This is a word count algorithm");
+            Console.WriteLine(result);            
+        }
+
+        public static int WordCount(string str)
+        {
+            int count = 0;
+
+            if (!string.IsNullOrWhiteSpace(str))
+            {
+                foreach(string s in str.Split(' '))
+                {
+                    count++;
+                }
+            }
+            return count;
         }
     }
 }
