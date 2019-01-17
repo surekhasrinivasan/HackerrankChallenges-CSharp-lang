@@ -39,9 +39,11 @@ namespace WordCountAlgorithm
                 return 0;
             }
 
+            // ensures there is only one space between words in the string
             while (str.Contains("  "))
                 str = str.Replace("  ", " ");
 
+            // count the words
             foreach(string s in str.Split(' '))
             {
                 count++;
