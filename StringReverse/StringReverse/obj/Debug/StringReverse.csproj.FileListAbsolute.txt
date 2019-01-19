@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\bin\Debug\StringReverse.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\bin\Debug\StringReverse.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\obj\Debug\StringReverse.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\obj\Debug\StringReverse.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\StringReverse\StringReverse\obj\Debug\StringReverse.pdb
