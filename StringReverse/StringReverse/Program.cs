@@ -11,8 +11,11 @@ namespace StringReverse
     {
         static void Main(string[] args)
         {
-            string resultStr = ReverseStr("This is a cat.");
+            string resultStr = ReverseStr("This is a cat.");            
             Console.WriteLine(resultStr);
+
+            string resultStr2 = ReverseStr("City of Boston");
+            Console.WriteLine(resultStr2);
         }
 
         public static string ReverseStr(string str)
