@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\bin\Debug\AnagramStrings.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\bin\Debug\AnagramStrings.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\bin\Debug\AnagramStrings.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\obj\Debug\AnagramStrings.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\obj\Debug\AnagramStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\obj\Debug\AnagramStrings.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\AnagramStrings\AnagramStrings\obj\Debug\AnagramStrings.pdb
