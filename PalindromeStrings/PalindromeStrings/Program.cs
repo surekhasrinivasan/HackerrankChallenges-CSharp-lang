@@ -15,8 +15,11 @@ namespace PalindromeStrings
         {
             Console.WriteLine("Enter a word: ");
             string word = Console.ReadLine();
-
+            
+            // Convert the word to char array 
             var array = word.ToCharArray();
+
+            // Reverse the array
             Array.Reverse(array);
 
             if (word.Equals(new string(array)))
