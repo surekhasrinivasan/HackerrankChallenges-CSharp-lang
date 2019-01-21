@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\bin\Debug\PowerOfNumber.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\bin\Debug\PowerOfNumber.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\bin\Debug\PowerOfNumber.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\obj\Debug\PowerOfNumber.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\obj\Debug\PowerOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\obj\Debug\PowerOfNumber.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PowerOfNumber\PowerOfNumber\obj\Debug\PowerOfNumber.pdb
