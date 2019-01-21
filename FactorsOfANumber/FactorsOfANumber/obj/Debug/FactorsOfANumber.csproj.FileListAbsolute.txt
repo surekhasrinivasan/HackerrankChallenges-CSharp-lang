@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\bin\Debug\FactorsOfANumber.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\bin\Debug\FactorsOfANumber.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\bin\Debug\FactorsOfANumber.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\obj\Debug\FactorsOfANumber.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\obj\Debug\FactorsOfANumber.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\obj\Debug\FactorsOfANumber.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FactorsOfANumber\FactorsOfANumber\obj\Debug\FactorsOfANumber.pdb
