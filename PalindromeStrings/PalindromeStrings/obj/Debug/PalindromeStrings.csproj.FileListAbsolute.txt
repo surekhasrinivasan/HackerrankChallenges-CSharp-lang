@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\bin\Debug\PalindromeStrings.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\bin\Debug\PalindromeStrings.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\bin\Debug\PalindromeStrings.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\obj\Debug\PalindromeStrings.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\obj\Debug\PalindromeStrings.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\obj\Debug\PalindromeStrings.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PalindromeStrings\PalindromeStrings\obj\Debug\PalindromeStrings.pdb
