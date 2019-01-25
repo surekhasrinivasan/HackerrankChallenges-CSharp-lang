@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OperatorOverloadingExample
 {
-    // Program to demonstrate Operator Overloading
+    // Program to demonstrate Operator Overloading whenever we have our own custom class datatype
     class Length
     {
         int feet, inch;
@@ -34,6 +34,35 @@ namespace OperatorOverloadingExample
 
             return l3;
         }
+        
+        public static bool operator >(Length l1,Length l2)
+        {
+            if (l1.feet > l2.feet)
+                return true;
+            else if (l1.feet == l2.feet)
+            {
+                if (l1.inch > l2.inch)
+                    return true;
+                else
+                    return false;
+            }
+            else
+                return false;
+        }
+        public static bool operator <(Length l1, Length l2)
+        {
+            if (l1.feet < l2.feet)
+                return true;
+            else if (l1.feet == l2.feet)
+            {
+                if (l1.inch < l2.inch)
+                    return true;
+                else
+                    return false;
+            }
+            else
+                return false;
+        }
 
         string GetLength()
         {
@@ -44,6 +73,11 @@ namespace OperatorOverloadingExample
             Length len1 = new Length(2, 8);
             Length len2 = new Length(4, 5);
             Length len3 = len1 + len2;
+
+            if(len1 > len2)
+                Console.WriteLine("len1 is greater");
+            else
+                Console.WriteLine("len1 is not greater");
 
             Console.WriteLine(len1.GetLength());
             Console.WriteLine(len2.GetLength());
