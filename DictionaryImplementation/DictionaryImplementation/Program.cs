@@ -18,6 +18,20 @@ namespace DictionaryImplementation
     {
         static void Main(string[] args)
         {
+            var Books = new Dictionary<int, string>()
+            {
+                {1, "Science" },
+                {2, "Math" },
+                {3, "History" },
+                {4, "ELA" },
+                {5, "Music" }
+            };
+
+            foreach(KeyValuePair<int, string> keyValuePair in Books)
+            {
+                Console.WriteLine(keyValuePair.Key + " : " + keyValuePair.Value);
+            }
+            Console.ReadLine();
         }
     }
 }

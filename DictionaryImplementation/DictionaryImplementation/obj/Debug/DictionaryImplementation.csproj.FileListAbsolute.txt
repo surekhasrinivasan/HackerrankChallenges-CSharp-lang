@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\bin\Debug\DictionaryImplementation.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\bin\Debug\DictionaryImplementation.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\bin\Debug\DictionaryImplementation.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\obj\Debug\DictionaryImplementation.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\obj\Debug\DictionaryImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\obj\Debug\DictionaryImplementation.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\DictionaryImplementation\DictionaryImplementation\obj\Debug\DictionaryImplementation.pdb
