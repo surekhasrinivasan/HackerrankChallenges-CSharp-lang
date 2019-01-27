@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\bin\Debug\IsDivisibleByTwo.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\bin\Debug\IsDivisibleByTwo.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\bin\Debug\IsDivisibleByTwo.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\obj\Debug\IsDivisibleByTwo.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\obj\Debug\IsDivisibleByTwo.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\obj\Debug\IsDivisibleByTwo.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\IsDivisibleByTwo\IsDivisibleByTwo\obj\Debug\IsDivisibleByTwo.pdb
