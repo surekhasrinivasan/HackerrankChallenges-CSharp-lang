@@ -17,7 +17,7 @@ namespace CheckPasswordAlgorithm
      * 5. 1 special char
      * 6. No white space
     **/
-    public static class Program
+    class Program
     {
         public static bool CheckPassword(string password)
         {
@@ -44,6 +44,7 @@ namespace CheckPasswordAlgorithm
                     return false;
             }
 
+            // one special character
             string specialCharacters = @"%!@#$%^&*()?/>.<,:;'\|}]{[_~`+=-" + "\"";
             char[] specialCharactersArray = specialCharacters.ToArray();
 
@@ -52,12 +53,18 @@ namespace CheckPasswordAlgorithm
                 if (password.Contains(sc))
                     return true;
             }
-
             return false;
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(CheckPassword("Alpha$"));            
+            Console.WriteLine(CheckPassword("Alpha$"));
+
+            Console.WriteLine(CheckPassword("@John123 "));
+
+            Console.WriteLine(CheckPassword("Sami&123"));
+
+            bool result = CheckPassword("Smith");
+            Console.WriteLine(result);
         }
     }
-    }
+}
