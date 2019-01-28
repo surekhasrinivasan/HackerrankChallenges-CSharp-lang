@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\bin\Debug\SubStringsInString.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\bin\Debug\SubStringsInString.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\bin\Debug\SubStringsInString.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\obj\Debug\SubStringsInString.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\obj\Debug\SubStringsInString.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\obj\Debug\SubStringsInString.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SubStringsInString\SubStringsInString\obj\Debug\SubStringsInString.pdb

@@ -11,6 +11,16 @@ namespace SubStringsInString
     {
         static void Main(string[] args)
         {
+            string str = "apple";
+
+            for(int i = 1; i < str.Length; i++)
+            {
+                for(int start = 0; start <= str.Length - i; start++)
+                {
+                    string substring = str.Substring(start, i);
+                    Console.WriteLine(substring);
+                }
+            }
         }
     }
 }
