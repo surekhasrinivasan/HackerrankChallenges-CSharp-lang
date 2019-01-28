@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\bin\Debug\ReturnRemainder.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\bin\Debug\ReturnRemainder.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\bin\Debug\ReturnRemainder.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\obj\Debug\ReturnRemainder.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\obj\Debug\ReturnRemainder.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\obj\Debug\ReturnRemainder.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ReturnRemainder\ReturnRemainder\obj\Debug\ReturnRemainder.pdb
