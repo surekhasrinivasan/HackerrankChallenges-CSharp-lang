@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\bin\Debug\Day0-HelloWorld.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\bin\Debug\Day0-HelloWorld.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\bin\Debug\Day0-HelloWorld.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\obj\Debug\Day0-HelloWorld.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\obj\Debug\Day0-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\obj\Debug\Day0-HelloWorld.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day0-HelloWorld\Day0-HelloWorld\obj\Debug\Day0-HelloWorld.pdb
