@@ -12,7 +12,30 @@ namespace Day1_DataTypes
     {
         static void Main(string[] args)
         {
-            
+            int i = 4;
+            double d = 4.0;
+            string s = "HackerRank ";
+
+            // Declare second integer, double, and String variables.
+            int num;
+            double doubleNum;
+            string str;
+
+            // Read and save an integer, double, and String to your variables.
+            num = Convert.ToInt16(Console.ReadLine());
+            doubleNum = Convert.ToDouble(Console.ReadLine());
+            str = Console.ReadLine();
+
+            // Print the sum of both integer variables on a new line.
+            Console.WriteLine(i + num);
+
+            // Print the sum of the double variables on a new line.
+            double sum = d + doubleNum;
+            Console.WriteLine(sum);
+
+            // Concatenate and print the String variables on a new line
+            // The 's' variable above should be printed first.
+            Console.WriteLine(s + str);
         }
     }
 }
