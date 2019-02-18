@@ -31,7 +31,7 @@ namespace Day1_DataTypes
 
             // Print the sum of the double variables on a new line.
             double sum = d + doubleNum;
-            Console.WriteLine(sum);
+            Console.WriteLine(String.Format("{0:0.0}", sum));
 
             // Concatenate and print the String variables on a new line
             // The 's' variable above should be printed first.
