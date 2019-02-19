@@ -1,0 +1,6 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day4-ClassVsInstance\Day4-ClassVsInstance\bin\Debug\Day4-ClassVsInstance.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day4-ClassVsInstance\Day4-ClassVsInstance\bin\Debug\Day4-ClassVsInstance.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day4-ClassVsInstance\Day4-ClassVsInstance\bin\Debug\Day4-ClassVsInstance.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day4-ClassVsInstance\Day4-ClassVsInstance\obj\Debug\Day4-ClassVsInstance.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day4-ClassVsInstance\Day4-ClassVsInstance\obj\Debug\Day4-ClassVsInstance.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day4-ClassVsInstance\Day4-ClassVsInstance\obj\Debug\Day4-ClassVsInstance.pdb
