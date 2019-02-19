@@ -12,10 +12,13 @@ namespace Day2_Operators
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the meal cost: ");
             double meal_cost = Convert.ToDouble(Console.ReadLine());
 
+            Console.WriteLine("Enter the tip percent: ");
             int tip_percent = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Enter the tax percent: ");
             int tax_percent = Convert.ToInt32(Console.ReadLine());
 
             solve(meal_cost, tip_percent, tax_percent);
@@ -35,7 +38,10 @@ namespace Day2_Operators
 
             total_cost = meal_cost + tip + tax;
 
+            Console.WriteLine("The meal's total cost is: ");
             Console.WriteLine(Math.Round(total_cost));
+
+            Console.ReadLine();
         }
     }
 }
