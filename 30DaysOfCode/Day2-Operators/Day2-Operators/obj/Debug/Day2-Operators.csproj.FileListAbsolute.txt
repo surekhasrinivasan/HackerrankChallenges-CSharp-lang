@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\bin\Debug\Day2-Operators.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\bin\Debug\Day2-Operators.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\bin\Debug\Day2-Operators.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\obj\Debug\Day2-Operators.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\obj\Debug\Day2-Operators.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\obj\Debug\Day2-Operators.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day2-Operators\Day2-Operators\obj\Debug\Day2-Operators.pdb
