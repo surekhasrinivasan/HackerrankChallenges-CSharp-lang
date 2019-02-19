@@ -1,0 +1,6 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day3-ConditionalStatements\Day3-ConditionalStatements\bin\Debug\Day3-ConditionalStatements.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day3-ConditionalStatements\Day3-ConditionalStatements\bin\Debug\Day3-ConditionalStatements.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day3-ConditionalStatements\Day3-ConditionalStatements\bin\Debug\Day3-ConditionalStatements.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day3-ConditionalStatements\Day3-ConditionalStatements\obj\Debug\Day3-ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day3-ConditionalStatements\Day3-ConditionalStatements\obj\Debug\Day3-ConditionalStatements.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day3-ConditionalStatements\Day3-ConditionalStatements\obj\Debug\Day3-ConditionalStatements.pdb
