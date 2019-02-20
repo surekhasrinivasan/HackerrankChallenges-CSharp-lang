@@ -19,6 +19,28 @@ namespace Day8_DictionariesAndMaps
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the number of Entries: ");
+            int n = int.Parse(Console.ReadLine());
+            string name;
+
+            Dictionary<string, string> phoneBook = new Dictionary<string, string>();
+
+            for(int i =0; i < n; i++)
+            {
+                var temp = Console.ReadLine().Split(' ');
+                phoneBook.Add(temp[0], temp[1]);
+            }
+            while((name = Console.ReadLine()) != null)
+            {
+                if (phoneBook.ContainsKey(name))
+                {
+                    Console.WriteLine(name + "=" + phoneBook[name]);
+                }
+                else
+                {
+                    Console.WriteLine("Not found");
+                }
+            }
         }
     }
 }
