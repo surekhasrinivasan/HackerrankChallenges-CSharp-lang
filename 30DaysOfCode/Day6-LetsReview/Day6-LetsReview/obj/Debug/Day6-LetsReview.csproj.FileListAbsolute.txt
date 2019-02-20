@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\bin\Debug\Day6-LetsReview.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\bin\Debug\Day6-LetsReview.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\bin\Debug\Day6-LetsReview.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\obj\Debug\Day6-LetsReview.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\obj\Debug\Day6-LetsReview.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\obj\Debug\Day6-LetsReview.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day6-LetsReview\Day6-LetsReview\obj\Debug\Day6-LetsReview.pdb
