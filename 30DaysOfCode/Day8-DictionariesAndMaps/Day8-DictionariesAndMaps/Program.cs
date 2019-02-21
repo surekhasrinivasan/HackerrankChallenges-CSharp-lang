@@ -19,27 +19,45 @@ namespace Day8_DictionariesAndMaps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of Entries: ");
-            int n = int.Parse(Console.ReadLine());
-            string name;
+            //Console.WriteLine("Enter the number of Entries: ");
+            //int n = int.Parse(Console.ReadLine());
+            //string name;
+
+            //Dictionary<string, string> phoneBook = new Dictionary<string, string>();
+
+            //for(int i =0; i < n; i++)
+            //{
+            //    var temp = Console.ReadLine().Split(' ');
+            //    phoneBook.Add(temp[0], temp[1]);
+            //}
+            //while((name = Console.ReadLine()) != null)
+            //{
+            //    if (phoneBook.ContainsKey(name))
+            //    {
+            //        Console.WriteLine(name + "=" + phoneBook[name]);
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Not found");
+            //    }
+            //}
 
             Dictionary<string, string> phoneBook = new Dictionary<string, string>();
 
-            for(int i =0; i < n; i++)
+            phoneBook.Add("Sam", "12345678");
+            phoneBook.Add("Smith", "23456789");
+            phoneBook.Add("Rob", "34567890");
+            phoneBook.Add("John", "45678901");
+
+            // ContainsKey can be used to test keys before inserting them.
+            if (!phoneBook.ContainsKey("Marie"))
             {
-                var temp = Console.ReadLine().Split(' ');
-                phoneBook.Add(temp[0], temp[1]);
+                phoneBook.Add("Marie", "56789012");
             }
-            while((name = Console.ReadLine()) != null)
+
+            foreach(KeyValuePair<string, string> kvp in phoneBook)
             {
-                if (phoneBook.ContainsKey(name))
-                {
-                    Console.WriteLine(name + "=" + phoneBook[name]);
-                }
-                else
-                {
-                    Console.WriteLine("Not found");
-                }
+                Console.WriteLine("{0} = {1}", kvp.Key, kvp.Value);
             }
         }
     }
