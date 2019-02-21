@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\bin\Debug\Day9-Recursion.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\bin\Debug\Day9-Recursion.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\bin\Debug\Day9-Recursion.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\obj\Debug\Day9-Recursion.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\obj\Debug\Day9-Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\obj\Debug\Day9-Recursion.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day9-Recursion\Day9-Recursion\obj\Debug\Day9-Recursion.pdb
