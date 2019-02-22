@@ -13,7 +13,26 @@ namespace Day10_BinaryNumbers
     {
         static void Main(string[] args)
         {
-                 
+            Console.WriteLine("Enter a base-10 integer: ");
+            int n = int.Parse(Console.ReadLine());
+            int count = 0;
+            int maxConsecutive = 0;
+
+            while(n > 0)
+            {
+                if (n % 2 == 1)
+                {
+                    count++;
+                    if (count > maxConsecutive)
+                    {
+                        maxConsecutive = count;
+                    }
+                }
+                else
+                    count = 0;
+                n = n / 2;
+            }
+            Console.WriteLine(maxConsecutive);                 
         }
     }
 }
