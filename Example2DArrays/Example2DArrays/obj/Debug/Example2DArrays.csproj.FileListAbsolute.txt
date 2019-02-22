@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\bin\Debug\Example2DArrays.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\bin\Debug\Example2DArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\bin\Debug\Example2DArrays.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\obj\Debug\Example2DArrays.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\obj\Debug\Example2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\obj\Debug\Example2DArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\Example2DArrays\Example2DArrays\obj\Debug\Example2DArrays.pdb

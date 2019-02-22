@@ -11,7 +11,21 @@ namespace Example2DArrays
     {
         static void Main(string[] args)
         {
+            int rowSize = 2;
+            int colSize = 4;
+            int count = 0;
 
+            int[ , ] myArray = new int[rowSize, colSize];
+            
+            for(int i = 0; i < rowSize; i++)
+            {
+                for(int j = 0; j < colSize; j++, count++)
+                {
+                    myArray[i , j] = count;
+                    Console.Write(myArray[i , j] + " ");
+                }
+                Console.WriteLine();
+            }            
         }
     }
 }
