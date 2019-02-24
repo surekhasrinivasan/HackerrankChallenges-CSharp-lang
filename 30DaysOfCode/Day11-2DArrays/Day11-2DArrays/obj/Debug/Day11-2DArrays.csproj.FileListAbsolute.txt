@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\bin\Debug\Day11-2DArrays.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\bin\Debug\Day11-2DArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\bin\Debug\Day11-2DArrays.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\obj\Debug\Day11-2DArrays.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\obj\Debug\Day11-2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\obj\Debug\Day11-2DArrays.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day11-2DArrays\Day11-2DArrays\obj\Debug\Day11-2DArrays.pdb

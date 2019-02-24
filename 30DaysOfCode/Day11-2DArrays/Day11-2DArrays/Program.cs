@@ -27,28 +27,64 @@ namespace Day11_2DArrays
     {
         static void Main(string[] args)
         {
-            int[][] arr = new int[6][];
+            //int[][] arr = new int[6][];
 
-            // Setting maxSum to -63 because that is lowest sum of hourglass (-9 x 7 = -63)
-            int maxSum = -63;
+            //// Setting maxSum to -63 because that is lowest sum of hourglass (-9 x 7 = -63)
+            //int maxSum = -63;
 
-            for (int i = 0; i < 6; i++)
+            //for (int i = 0; i < 6; i++)
+            //{
+            //    arr[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
+            //}
+            //for (int k = 0; k < 4; k++)
+            //{
+            //    for (int l = 0; l < 4; l++)
+            //    {
+            //        int sumTemp = arr[k][l] + arr[k][l + 1] + arr[k][l + 2] + arr[k + 1][l + 1] +
+            //        arr[k + 2][l] + arr[k + 2][l + 1] + arr[k + 2][l + 2];
+            //        if (sumTemp > maxSum)
+            //        {
+            //            maxSum = sumTemp;
+            //        }
+            //    }
+            //}
+            //Console.WriteLine(maxSum);
+
+
+            // Prints 6 x 6 2D Array
+            int[,] arr = new int[6, 6];
+            int count = 0;
+            int highestSum = 0;
+
+            for(int i = 0; i < 6; i++)
             {
-                arr[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
-            }
-            for (int k = 0; k < 4; k++)
-            {
-                for (int l = 0; l < 4; l++)
+                for(int j =0; j < 6; j++, count++)
                 {
-                    int sumTemp = arr[k][l] + arr[k][l + 1] + arr[k][l + 2] + arr[k + 1][l + 1] +
-                    arr[k + 2][l] + arr[k + 2][l + 1] + arr[k + 2][l + 2];
-                    if (sumTemp > maxSum)
+                    arr[i, j] = count;
+                    Console.Write(arr[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+
+            // 21 22 23
+            //    28
+            // 33 34 35
+
+            // highestSum = 196
+
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    int sumTemp = arr[i , j] + arr[i , j + 1] + arr[i , j + 2] + arr[i + 1, j + 1] +
+                    arr[i + 2, j] + arr[i + 2, j + 1] + arr[i + 2, j + 2];
+                    if (sumTemp > highestSum)
                     {
-                        maxSum = sumTemp;
+                        highestSum = sumTemp;
                     }
                 }
             }
-            Console.WriteLine(maxSum);
+            Console.WriteLine(highestSum);
         }
     }
 }
