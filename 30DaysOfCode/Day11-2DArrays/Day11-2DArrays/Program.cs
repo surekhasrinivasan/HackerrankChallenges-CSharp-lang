@@ -27,7 +27,28 @@ namespace Day11_2DArrays
     {
         static void Main(string[] args)
         {
+            int[][] arr = new int[6][];
 
+            // Setting maxSum to -63 because that is lowest sum of hourglass (-9 x 7 = -63)
+            int maxSum = -63;
+
+            for (int i = 0; i < 6; i++)
+            {
+                arr[i] = Array.ConvertAll(Console.ReadLine().Split(' '), arrTemp => Convert.ToInt32(arrTemp));
+            }
+            for (int k = 0; k < 4; k++)
+            {
+                for (int l = 0; l < 4; l++)
+                {
+                    int sumTemp = arr[k][l] + arr[k][l + 1] + arr[k][l + 2] + arr[k + 1][l + 1] +
+                    arr[k + 2][l] + arr[k + 2][l + 1] + arr[k + 2][l + 2];
+                    if (sumTemp > maxSum)
+                    {
+                        maxSum = sumTemp;
+                    }
+                }
+            }
+            Console.WriteLine(maxSum);
         }
     }
 }
