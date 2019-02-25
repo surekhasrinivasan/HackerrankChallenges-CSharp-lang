@@ -14,6 +14,16 @@ namespace LibraryCatalogue
         int pageCount;
         int ISBN;
         bool isCheckedOut; // whether or not the book is checked out
-        int dayCheckedOut = -1; // book is not checked out yet so it is -1 to start with       
+        int dayCheckedOut = -1; // book is not checked out yet so it is -1 to start with   
+
+        // Constructor 
+        public Book(string bookTitle, int bookPageCount, int bookISBN)
+        {
+            this.title = bookTitle;
+            this.pageCount = bookPageCount;
+            this.ISBN = bookISBN;
+            isCheckedOut = false;
+        }
+
     }
 }
