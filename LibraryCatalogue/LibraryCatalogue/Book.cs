@@ -25,5 +25,30 @@ namespace LibraryCatalogue
             isCheckedOut = false;
         }
 
+        // Getters -- instance methods
+        public string getTitle()
+        {
+            return this.title;
+        }
+
+        public int getPageCount()
+        {
+            return this.pageCount;
+        }
+
+        public int getISBN()
+        {
+            return this.ISBN;
+        }
+
+        public bool getIsCheckedOut()
+        {
+            return this.isCheckedOut;
+        }
+
+        public int getDayCheckedOut()
+        {
+            return this.dayCheckedOut;
+        }
     }
 }
