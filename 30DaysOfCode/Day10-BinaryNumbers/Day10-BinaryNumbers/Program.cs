@@ -18,21 +18,52 @@ namespace Day10_BinaryNumbers
             int count = 0;
             int maxConsecutive = 0;
 
-            while(n > 0)
+            //while(n > 0)
+            //{
+            //    if (n % 2 == 1)
+            //    {
+            //        count++;
+            //        if (count > maxConsecutive)
+            //        {
+            //            maxConsecutive = count;
+            //        }
+            //    }
+            //    else
+            //        count = 0;
+            //    n = n / 2;
+            //}
+            //Console.WriteLine(maxConsecutive);                 
+
+            // Another way of solving this algorithm
+
+            string strRemainder = string.Empty;
+
+            while (n > 0)
             {
-                if (n % 2 == 1)
-                {
-                    count++;
-                    if (count > maxConsecutive)
-                    {
-                        maxConsecutive = count;
-                    }
-                }
-                else
-                    count = 0;
+                var remainder = n % 2;
+                strRemainder += remainder;
+
                 n = n / 2;
             }
-            Console.WriteLine(maxConsecutive);                 
+            var reverseBinary = strRemainder.ToArray();
+            Array.Reverse(reverseBinary);
+
+            for (int i = 0; i < reverseBinary.Length; i++)
+            {
+                if (reverseBinary[i] == '1')
+                {
+                    count = count + 1;
+                }
+                else
+                {
+                    count = 0;
+                }
+                if (count > maxConsecutive)
+                {
+                    maxConsecutive = count;
+                }
+            }
+            Console.WriteLine(maxConsecutive);
         }
     }
 }
