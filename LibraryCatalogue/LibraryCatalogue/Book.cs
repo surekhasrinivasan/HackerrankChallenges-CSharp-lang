@@ -50,5 +50,17 @@ namespace LibraryCatalogue
         {
             return this.dayCheckedOut;
         }
+
+        // Setters 
+        public void setIsCheckedOut(bool newIsCheckedOut, int currentDayCheckedOut)
+        {
+            this.isCheckedOut = newIsCheckedOut;
+            setDayCheckedOut(currentDayCheckedOut);
+        }
+
+        private void setDayCheckedOut(int day)
+        {
+            this.dayCheckedOut = day;
+        }
     }
 }
