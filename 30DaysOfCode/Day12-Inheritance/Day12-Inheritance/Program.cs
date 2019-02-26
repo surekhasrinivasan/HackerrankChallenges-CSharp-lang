@@ -68,8 +68,43 @@ namespace Day12_Inheritance
         *   Return: A character denoting the grade.
         */
         // Write your method here
+        public char Calculate()
+        {
+            char grade = 'O';
+            int avgGrade = 0, tScores = 0;
 
-
+            for (int i = 0; i < testScores.Length; i++)
+            {
+                int input = testScores.Length;
+                tScores += testScores[i];
+                avgGrade = tScores / input;
+            }
+            if (avgGrade >= 90 && avgGrade <= 100)
+            {
+                grade = 'O';
+            }
+            else if (avgGrade >= 80 && avgGrade < 90)
+            {
+                grade = 'E';
+            }
+            else if (avgGrade >= 70 && avgGrade < 80)
+            {
+                grade = 'A';
+            }
+            else if (avgGrade >= 55 && avgGrade < 70)
+            {
+                grade = 'P';
+            }
+            else if (avgGrade >= 40 && avgGrade < 55)
+            {
+                grade = 'D';
+            }
+            else if (avgGrade < 40)
+            {
+                grade = 'T';
+            }
+            return grade;
+        }
     }
 
     // Main method
@@ -77,7 +112,26 @@ namespace Day12_Inheritance
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter first name, last name and id: ");
+            string[] inputs = Console.ReadLine().Split();
+            string firstName = inputs[0];
+            string lastName = inputs[1];
+            int id = Convert.ToInt32(inputs[2]);
 
+            Console.WriteLine("Enter number of scores: ");
+            int numScores = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the scores values: ");
+            inputs = Console.ReadLine().Split();
+            int[] scores = new int[numScores];
+            for (int i = 0; i < numScores; i++)
+            {
+                scores[i] = Convert.ToInt32(inputs[i]);
+            }
+
+            Student s = new Student(firstName, lastName, id, scores);
+            s.printPerson();
+            Console.WriteLine("Grade: " + s.Calculate() + "\n");
         }
     }
 }
