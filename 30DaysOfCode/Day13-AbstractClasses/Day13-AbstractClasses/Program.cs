@@ -36,10 +36,34 @@ namespace Day13_AbstractClasses
         3. Price:, a space, and then the current instance's price.
      * 
      */
+
+    class MyBook : Book
+    {
+        private int myBookPrice;
+
+        public MyBook(string title, string author, int price):base(title, author)
+        {
+            this.myBookPrice = price;
+        }
+
+        public override void display()
+        {
+            Console.WriteLine("Title : {0}\nAuthor: {1}\nPrice: {2}", title, author, myBookPrice);
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the book title: ");
+            String title = Console.ReadLine();
+            Console.WriteLine("Enter the author's name: ");
+            String author = Console.ReadLine();
+            Console.WriteLine("Enter the price of the book: ");
+            int price = Int32.Parse(Console.ReadLine());
+            Book new_novel = new MyBook(title, author, price);
+            new_novel.display();
         }
     }
 }
