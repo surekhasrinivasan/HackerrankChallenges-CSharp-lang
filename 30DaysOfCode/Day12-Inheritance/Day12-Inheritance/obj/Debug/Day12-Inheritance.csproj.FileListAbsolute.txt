@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\bin\Debug\Day12-Inheritance.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\bin\Debug\Day12-Inheritance.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\bin\Debug\Day12-Inheritance.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\obj\Debug\Day12-Inheritance.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\obj\Debug\Day12-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\obj\Debug\Day12-Inheritance.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day12-Inheritance\Day12-Inheritance\obj\Debug\Day12-Inheritance.pdb
