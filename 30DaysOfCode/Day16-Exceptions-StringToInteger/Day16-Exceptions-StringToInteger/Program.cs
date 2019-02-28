@@ -13,7 +13,18 @@ namespace Day16_Exceptions_StringToInteger
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Enter a string: ");
+            String S = Console.ReadLine();
+
+            try
+            {
+                int s = Convert.ToInt32(S);
+                Console.WriteLine(s);
+            }
+            catch(Exception)
+            {
+                Console.WriteLine("Bad String");
+            }
         }
     }
 }
