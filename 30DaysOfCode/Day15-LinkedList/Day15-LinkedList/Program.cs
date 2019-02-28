@@ -30,14 +30,29 @@ namespace Day15_LinkedList
             data = d;
             next = null;
         }
-
     }
     
     class Program
     {
         public static Node insert(Node head, int data)
         {
-            //Complete this method
+            Node temp = new Node(data);
+            
+            // Base case
+            if (head == null)
+            {
+                return head = temp;
+            }
+            else if (head.next == null)
+            {
+                head.next = temp;
+            }
+            // Recursive case
+            else
+            {
+                insert(head.next, data);
+            }
+            return head;
         }
 
         public static void display(Node head)
@@ -48,12 +63,15 @@ namespace Day15_LinkedList
                 Console.Write(start.data + " ");
                 start = start.next;
             }
+            Console.WriteLine();
         }
         static void Main(String[] args)
         {
 
             Node head = null;
+            Console.WriteLine("Enter the number of testcases: ");
             int T = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the data values: ");
             while (T-- > 0)
             {
                 int data = Int32.Parse(Console.ReadLine());
