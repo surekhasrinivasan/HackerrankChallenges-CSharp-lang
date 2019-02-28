@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\bin\Debug\Day16-Exceptions-StringToInteger.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\bin\Debug\Day16-Exceptions-StringToInteger.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\bin\Debug\Day16-Exceptions-StringToInteger.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\obj\Debug\Day16-Exceptions-StringToInteger.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\obj\Debug\Day16-Exceptions-StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\obj\Debug\Day16-Exceptions-StringToInteger.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day16-Exceptions-StringToInteger\Day16-Exceptions-StringToInteger\obj\Debug\Day16-Exceptions-StringToInteger.pdb
