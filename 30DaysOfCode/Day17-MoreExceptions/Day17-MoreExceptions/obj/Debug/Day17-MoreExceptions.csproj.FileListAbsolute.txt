@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\bin\Debug\Day17-MoreExceptions.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\bin\Debug\Day17-MoreExceptions.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\bin\Debug\Day17-MoreExceptions.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\obj\Debug\Day17-MoreExceptions.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\obj\Debug\Day17-MoreExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\obj\Debug\Day17-MoreExceptions.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day17-MoreExceptions\Day17-MoreExceptions\obj\Debug\Day17-MoreExceptions.pdb
