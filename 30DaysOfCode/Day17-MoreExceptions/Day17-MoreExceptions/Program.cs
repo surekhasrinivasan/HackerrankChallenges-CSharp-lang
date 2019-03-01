@@ -15,15 +15,18 @@ namespace Day17_MoreExceptions
         static void Main(string[] args)
         {
             Calculator myCalculator = new Calculator();
+            Console.WriteLine("Enter the number of Testcases: ");
             int T = Int32.Parse(Console.ReadLine());
+
             while (T-- > 0)
             {
+                Console.WriteLine("Enter space-separated integers denoting n and p: ");
                 string[] num = Console.ReadLine().Split();
                 int n = int.Parse(num[0]);
                 int p = int.Parse(num[1]);
                 try
                 {
-                    int ans = myCalculator.power(n, p);
+                    int ans = myCalculator.Power(n, p);
                     Console.WriteLine(ans);
                 }
                 catch (Exception e)
