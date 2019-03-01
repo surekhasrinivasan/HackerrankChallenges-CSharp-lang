@@ -47,6 +47,22 @@ namespace RecursionsExamples
             }
         }
 
+        // Find exponentiation
+        // eg: int n = 3, p = 5 - Exponentiation(3, 5) is 3^5 = 3 * 3 * 3 * 3 * 3 = 243
+        public static int Exponentiation(int n, int p)
+        {
+            // Base Case
+            if(p <= 0)
+            {
+                return 1; // multiplication identity
+            }
+            // Recursive Case
+            else
+            {
+                return n * Exponentiation(n, p - 1);
+            }
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Enter an integer: ");
@@ -54,6 +70,10 @@ namespace RecursionsExamples
 
             Console.WriteLine("The summation of {0} is {1}", n, Summation(n));
             Console.WriteLine("The Factorial of {0} is {1}", n, Factorial(n));
+
+            Console.WriteLine("Enter an intger which is power to the previous integer: ");
+            int p = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("The Exponentiation of {0} to the power {1} is {2}", n, p, Exponentiation(n, p));
         }
     }
 }
