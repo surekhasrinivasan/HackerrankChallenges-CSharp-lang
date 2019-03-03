@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\bin\Debug\RecursionsExamples.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\bin\Debug\RecursionsExamples.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\bin\Debug\RecursionsExamples.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\obj\Debug\RecursionsExamples.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\obj\Debug\RecursionsExamples.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\obj\Debug\RecursionsExamples.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RecursionsExamples\RecursionsExamples\obj\Debug\RecursionsExamples.pdb
