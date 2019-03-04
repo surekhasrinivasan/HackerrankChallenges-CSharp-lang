@@ -25,10 +25,38 @@ namespace Day18_QueuesAndStacks
      */
     class Solution
     {
-        // Write code here
+        // Two instance variables: one for your stack, and one for your queue
+        Stack<char> st = new Stack<char>();
+        Queue<char> q = new Queue<char>();
 
+        // A void pushCharacter(char ch) method that pushes a character onto a stack
+        public void pushCharacter(char ch)
+        {
+            st.Push(ch);
+        }
+
+        // A void enqueueCharacter(char ch) method that enqueues a character in the queue instance variable
+        public void enqueueCharacter(char ch)
+        {
+            q.Enqueue(ch);
+        }
+
+        // A char popCharacter() method that pops and returns the character at the top of the stack instance variable
+        public char popCharacter()
+        {
+            return st.Pop();
+        }
+
+        // A char dequeueCharacter() method that dequeues and returns the first character in the queue instance variable
+        public char dequeueCharacter()
+        {
+            return q.Dequeue();
+        }
+               
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a string: ");
+
             // read the string s.
             string s = Console.ReadLine();
 
@@ -66,6 +94,8 @@ namespace Day18_QueuesAndStacks
             {
                 Console.Write("The word, {0}, is not a palindrome.", s);
             }
+
+            Console.WriteLine();
         }
     }
 }
