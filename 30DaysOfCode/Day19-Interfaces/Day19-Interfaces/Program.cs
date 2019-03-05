@@ -22,7 +22,15 @@ namespace Day19_Interfaces
     {
         public int divisorSum(int n)
         {
-            return 0;
+            int sum = 0;
+            for(int i =1; i <= n; i++)
+            {
+                if(n % i == 0)
+                {
+                    sum += i;
+                }
+            }
+            return sum;
         }
     }
 
@@ -30,6 +38,7 @@ namespace Day19_Interfaces
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter an integer: ");
             int n = Int32.Parse(Console.ReadLine());
             AdvancedArithmetic myCalculator = new Calculator();
             int sum = myCalculator.divisorSum(n);

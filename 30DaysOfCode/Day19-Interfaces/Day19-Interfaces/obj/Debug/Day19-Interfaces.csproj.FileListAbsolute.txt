@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\bin\Debug\Day19-Interfaces.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\bin\Debug\Day19-Interfaces.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\bin\Debug\Day19-Interfaces.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\obj\Debug\Day19-Interfaces.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\obj\Debug\Day19-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\obj\Debug\Day19-Interfaces.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day19-Interfaces\Day19-Interfaces\obj\Debug\Day19-Interfaces.pdb
