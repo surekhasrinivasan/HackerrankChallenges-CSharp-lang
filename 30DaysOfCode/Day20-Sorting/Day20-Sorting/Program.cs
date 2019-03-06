@@ -55,6 +55,15 @@ namespace Day20_Sorting
             Console.WriteLine("Array is sorted in {0} swaps.", numSwaps);
             Console.WriteLine("First Element: {0}", a[0]);
             Console.WriteLine("Last Element: {0}", a[n - 1]);
+
+            // Printing the sorted Array
+            Console.WriteLine("Sorted Array is: ");
+
+            foreach (int element in a)
+            {
+                Console.Write(element + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
