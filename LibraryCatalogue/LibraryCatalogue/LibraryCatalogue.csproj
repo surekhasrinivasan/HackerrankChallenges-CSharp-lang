@@ -5,7 +5,11 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{D9592AD4-15EE-41B0-AC5F-9ACD7A3F67B0}</ProjectGuid>
+=======
+    <ProjectGuid>{C61A639F-B63B-49D9-A621-E23A3E3F3474}</ProjectGuid>
+>>>>>>> 30DaysOfCode
 =======
     <ProjectGuid>{C61A639F-B63B-49D9-A621-E23A3E3F3474}</ProjectGuid>
 >>>>>>> 30DaysOfCode
