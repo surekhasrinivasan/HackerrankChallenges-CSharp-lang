@@ -23,6 +23,13 @@ namespace Day20_Sorting
      */
     class Program
     {
+        public static void Swap(int[] array, int index1, int index2)
+        {
+            int temp = array[index1];
+            array[index1] = array[index2];
+            array[index2] = temp;
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the number of elements in an array: ");
@@ -41,9 +48,10 @@ namespace Day20_Sorting
                 {
                     if(a[j] > a[j + 1])
                     {
-                        int temp = a[j];
-                        a[j] = a[j + 1];
-                        a[j + 1] = temp;
+                        //int temp = a[j];
+                        //a[j] = a[j + 1];
+                        //a[j + 1] = temp;
+                        Swap(a, j, j + 1);
                         numSwaps++;
                     }                    
                 }
