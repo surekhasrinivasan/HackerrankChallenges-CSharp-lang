@@ -26,11 +26,14 @@ namespace Day18_QueuesAndStacks
     class Solution
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
         // Write code here
 
         static void Main(string[] args)
         {
 =======
+=======
+>>>>>>> 30DaysOfCode
         // Two instance variables: one for your stack, and one for your queue
         Stack<char> st = new Stack<char>();
         Queue<char> q = new Queue<char>();
@@ -63,6 +66,9 @@ namespace Day18_QueuesAndStacks
         {
             Console.WriteLine("Enter a string: ");
 
+<<<<<<< HEAD
+>>>>>>> 30DaysOfCode
+=======
 >>>>>>> 30DaysOfCode
             // read the string s.
             string s = Console.ReadLine();
@@ -102,6 +108,11 @@ namespace Day18_QueuesAndStacks
                 Console.Write("The word, {0}, is not a palindrome.", s);
             }
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+            Console.WriteLine();
+>>>>>>> 30DaysOfCode
 =======
 
             Console.WriteLine();
