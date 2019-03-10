@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\bin\Debug\Day21-Generics.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\bin\Debug\Day21-Generics.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\bin\Debug\Day21-Generics.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\obj\Debug\Day21-Generics.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\obj\Debug\Day21-Generics.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\obj\Debug\Day21-Generics.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\30DaysOfCode\Day21-Generics\Day21-Generics\obj\Debug\Day21-Generics.pdb
