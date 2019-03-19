@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\bin\Debug\UniqueStringChallenge.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\bin\Debug\UniqueStringChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\bin\Debug\UniqueStringChallenge.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\obj\Debug\UniqueStringChallenge.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\obj\Debug\UniqueStringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\obj\Debug\UniqueStringChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\UniqueStringChallenge\UniqueStringChallenge\obj\Debug\UniqueStringChallenge.pdb
