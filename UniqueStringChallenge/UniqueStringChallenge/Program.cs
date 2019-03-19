@@ -9,28 +9,46 @@ namespace UniqueStringChallenge
     // Implement an algorithm to determine if a string has all unique characters.    
     class Program
     {
+        //public static bool IsUnique(string str)
+        //{
+        //    string temp1 = "";
+        //    string temp2 = "";
+
+        //    for (int i = 0; i < str.Length; i++)
+        //    {
+        //        temp1 = str.Substring(i, 1);
+
+        //        for (int k = 0; k < str.Length; k++)
+        //        {
+        //            temp2 = str.Substring(k, 1);
+        //            if ((temp1 == temp2) && (i != k))
+        //                return false;
+        //        }
+        //    }
+        //    return true;
+        //}
+
         public static bool IsUnique(string str)
         {
-            string temp1 = "";
-            string temp2 = "";
+            Dictionary<char, int> dictionary = new Dictionary<char, int>();
 
-            for (int i = 0; i < str.Length; i++)
+            foreach (char character in str)
             {
-                temp1 = str.Substring(i, 1);
-
-                for (int k = 0; k < str.Length; k++)
-                {
-                    temp2 = str.Substring(k, 1);
-                    if ((temp1 == temp2) && (i != k))
-                        return false;
-                }
+                if (dictionary.ContainsKey(character))
+                    return false;
+                else
+                    dictionary.Add(character, 1);
             }
             return true;
         }
+
+
         static void Main(string[] args)
         {
             Console.WriteLine(IsUnique("Samarth"));
             Console.WriteLine(IsUnique("Smith"));
+            Console.WriteLine(IsUnique("John"));
+            Console.WriteLine(IsUnique("eye"));
         }
     }
 }
