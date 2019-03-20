@@ -10,7 +10,7 @@ namespace FizzBuzzChallenge
     {
         public static string GetFizzBuzz()
         {
-            
+            return "";   
         }
     }
 }

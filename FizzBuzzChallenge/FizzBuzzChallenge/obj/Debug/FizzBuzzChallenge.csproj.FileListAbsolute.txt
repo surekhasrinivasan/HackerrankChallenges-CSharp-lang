@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\bin\Debug\FizzBuzzChallenge.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\FizzBuzzChallenge\FizzBuzzChallenge\obj\Debug\FizzBuzzChallenge.pdb
