@@ -19,8 +19,22 @@ namespace ArrayListExample
             list.Add("Java");
             list.Add("Ruby");
 
+            ArrayList list3 = new ArrayList();
+            list3.Add("PHP");
+            list3.Add("C");
+            list3.Add("C++");
+
             ArrayListExamples(list);
             ArrayListExamples1();
+
+            // ArrayList AddRange Method
+            list.AddRange(list3);
+
+            Console.WriteLine("Elements in the list after AddRange Method: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
         }
 
         // Pass ArrayList as Argument
@@ -48,6 +62,7 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine();
             return list2;
         }
     }
