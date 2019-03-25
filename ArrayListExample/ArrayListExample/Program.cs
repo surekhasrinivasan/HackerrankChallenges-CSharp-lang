@@ -20,14 +20,35 @@ namespace ArrayListExample
             list.Add("Ruby");
 
             ArrayListExamples(list);
+            ArrayListExamples1();
         }
 
+        // Pass ArrayList as Argument
         static void ArrayListExamples(ArrayList list)
         {
+            Console.WriteLine("Elements in the list: ");
             foreach(string i in list)
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine();
+        }
+
+        // Return ArrayList 
+        static ArrayList ArrayListExamples1()
+        {
+            ArrayList list2 = new ArrayList();
+            list2.Add("HTML");
+            list2.Add("CSS");
+            list2.Add("JavaScript");
+            list2.Add("React");
+
+            Console.WriteLine("Elements in the list2: ");
+            foreach (string i in list2)
+            {
+                Console.WriteLine(i);
+            }
+            return list2;
         }
     }
 }
