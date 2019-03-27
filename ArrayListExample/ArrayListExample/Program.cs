@@ -61,6 +61,16 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+
+            // Clone Method creates a copy of all the elements of the ArrayList
+            list.Clone();
+
+            Console.WriteLine();
+            Console.WriteLine("The shallow copy of arraylist is: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
         }
 
         // Pass ArrayList as Argument
