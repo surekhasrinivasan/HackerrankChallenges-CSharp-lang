@@ -35,6 +35,12 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine();
+
+            // ArrayList Count and Clear Method
+            Console.WriteLine("Number of elements in list3: " + list3.Count);
+            list3.Clear();
+            Console.WriteLine("Number of elements in list3 after Clear method : " + list3.Count);
         }
 
         // Pass ArrayList as Argument
