@@ -45,6 +45,18 @@ namespace ArrayListExample
             // sort the ArrayList and print to console
             list.Sort();
 
+            Console.WriteLine();
+            Console.WriteLine("Sorted ArrayList: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
+
+            // Reverse the ArrayList and print to Console
+            list.Reverse();
+
+            Console.WriteLine();
+            Console.WriteLine("Reverse list: ");
             foreach(string i in list)
             {
                 Console.WriteLine(i);
