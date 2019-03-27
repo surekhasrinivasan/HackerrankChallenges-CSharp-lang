@@ -26,7 +26,7 @@ namespace ArrayListExample
 
             ArrayListExamples(list);
             ArrayListExamples1();
-
+                       
             // ArrayList AddRange Method
             list.AddRange(list3);
 
@@ -41,6 +41,14 @@ namespace ArrayListExample
             Console.WriteLine("Number of elements in list3: " + list3.Count);
             list3.Clear();
             Console.WriteLine("Number of elements in list3 after Clear method : " + list3.Count);
+
+            // sort the ArrayList and print to console
+            list.Sort();
+
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
         }
 
         // Pass ArrayList as Argument
