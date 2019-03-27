@@ -71,6 +71,11 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+
+            // ArrayList Contains Method
+            Console.WriteLine("Element CSharp in the ArrayList: {0}", list.Contains("Csharp"));
+            Console.WriteLine("Element C+ in the ArrayList: {0}", list.Contains("C+"));
+            Console.WriteLine("Element Java in the ArrayList: {0}", list.Contains("Java"));
         }
 
         // Pass ArrayList as Argument
