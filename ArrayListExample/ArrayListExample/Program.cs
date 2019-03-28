@@ -89,6 +89,19 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+
+            // ArrayList InsertRange Method
+            ArrayList list4 = new ArrayList();
+
+            list4.Add("MySQL");
+            list4.Add("PHP");
+            list.InsertRange(3, list4);
+            Console.WriteLine("Elements in the ArrayList after InsertRange Method: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
+
         }
 
         // Pass ArrayList as Argument
