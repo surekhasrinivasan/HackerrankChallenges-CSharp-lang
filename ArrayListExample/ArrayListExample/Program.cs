@@ -101,6 +101,16 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine();
+
+            // ArrayList Remove Method
+            list.Remove("Java");
+
+            Console.WriteLine("Elements in the ArrayList after Remove Method: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
 
         }
 
