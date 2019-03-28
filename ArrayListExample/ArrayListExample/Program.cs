@@ -73,9 +73,22 @@ namespace ArrayListExample
             }
 
             // ArrayList Contains Method
-            Console.WriteLine("Element CSharp in the ArrayList: {0}", list.Contains("Csharp"));
-            Console.WriteLine("Element C+ in the ArrayList: {0}", list.Contains("C+"));
-            Console.WriteLine("Element Java in the ArrayList: {0}", list.Contains("Java"));
+            Console.WriteLine();
+            Console.WriteLine("Element CSharp is in the ArrayList: {0}", list.Contains("Csharp"));
+            Console.WriteLine("Element C+ is in the ArrayList: {0}", list.Contains("C+"));
+            Console.WriteLine("Element Java is in the ArrayList: {0}", list.Contains("Java"));
+            Console.WriteLine();  
+
+            // ArrayList Insert Method
+            list.Insert(0, "CsharpInsert");
+            list.Insert(3, "TechInsert");
+
+            Console.WriteLine();
+            Console.WriteLine("Elements in the ArrayList after Insert method: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
         }
 
         // Pass ArrayList as Argument
