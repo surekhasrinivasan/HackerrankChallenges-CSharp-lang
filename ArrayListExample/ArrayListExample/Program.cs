@@ -112,6 +112,17 @@ namespace ArrayListExample
                 Console.WriteLine(i);
             }
 
+            // ArrayList RemoveAt Method
+            list.RemoveAt(1);
+
+            Console.WriteLine();
+            Console.WriteLine("Elements in the ArrayList after RemoveAt Method: ");
+            foreach (string i in list)
+            {
+                Console.WriteLine(i);
+            }
+
+
         }
 
         // Pass ArrayList as Argument
