@@ -154,8 +154,12 @@ namespace ArrayListExample
                 Console.WriteLine(i);
             }
 
-
-
+            // ArrayList IndexOf Method
+            Console.WriteLine();
+            Console.WriteLine("The index value of CsharpInsert: " + list.IndexOf("CsharpInsert"));
+            Console.WriteLine("The index value of PHP: "+ list.IndexOf("PHP"));
+            Console.WriteLine("The index value of Javascript: " + list.IndexOf("Javascript"));
+            Console.WriteLine("The index value of C++: " + list.IndexOf("C++"));
         }
 
         // Pass ArrayList as Argument
