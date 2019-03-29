@@ -122,6 +122,16 @@ namespace ArrayListExample
                 Console.WriteLine(i);
             }
 
+            // ArrayList RemoveRange Method
+            list.RemoveRange(1, 2);
+
+            Console.WriteLine();
+            Console.WriteLine("Elements in the ArrayList after RemoveRange Method: ");
+            foreach (string i in list)
+            {
+                Console.WriteLine(i);
+            }
+
 
         }
 
