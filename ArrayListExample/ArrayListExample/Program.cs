@@ -132,6 +132,16 @@ namespace ArrayListExample
                 Console.WriteLine(i);
             }
 
+            // ArrrayList GetRange Method
+            ArrayList list5 = list.GetRange(1, 3);
+
+            Console.WriteLine();
+            Console.WriteLine("Elements in the ArrayList5 after GetRange Method: ");
+            foreach(string i in list5)
+            {
+                Console.WriteLine(i);
+            }
+
 
         }
 
