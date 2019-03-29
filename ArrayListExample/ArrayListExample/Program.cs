@@ -142,6 +142,19 @@ namespace ArrayListExample
                 Console.WriteLine(i);
             }
 
+            // ArrayList SetRange Method
+            ArrayList list6 = new ArrayList();
+            list6.Add("MSDN");
+
+            list.SetRange(2, list6);
+            Console.WriteLine();
+            Console.WriteLine("Elements in the ArrayList after SetRange Method: ");
+            foreach(string i in list)
+            {
+                Console.WriteLine(i);
+            }
+
+
 
         }
 
