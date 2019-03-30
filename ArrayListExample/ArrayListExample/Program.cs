@@ -51,6 +51,11 @@ namespace ArrayListExample
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine();
+
+            // ArrayList BinarySearch Method
+            Console.WriteLine("The element Javascript searched at: " + list.BinarySearch("Javascript"));
+            Console.WriteLine("The element Csharp searched at: " + list.BinarySearch("Csharp"));
 
             // Reverse the ArrayList and print to Console
             list.Reverse();
