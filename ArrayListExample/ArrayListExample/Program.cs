@@ -12,6 +12,24 @@ namespace ArrayListExample
     {
         static void Main(string[] args)
         {
+            // Create the array
+            string[] array = { "Mongo", "Express", "Angular", "Node" };
+            Console.WriteLine("Enter the elements of the array: ");
+            for(int i = 0; i < 4; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+            Console.WriteLine();
+            // Convert Array into ArrayList
+            ArrayList arrayList = new ArrayList(array);
+
+            Console.WriteLine("The elements in the arrayList that are copied from array: ");
+            foreach(string s in arrayList)
+            {
+                Console.WriteLine(s);
+            }
+            Console.WriteLine();
+
             // Add Method
             ArrayList list = new ArrayList();
             list.Add("Csharp");
@@ -50,7 +68,7 @@ namespace ArrayListExample
             foreach(string i in list)
             {
                 Console.WriteLine(i);
-            }
+            } 
             Console.WriteLine();
 
             // ArrayList BinarySearch Method
