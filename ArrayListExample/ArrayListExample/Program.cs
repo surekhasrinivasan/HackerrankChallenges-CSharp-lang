@@ -160,6 +160,17 @@ namespace ArrayListExample
             Console.WriteLine("The index value of PHP: "+ list.IndexOf("PHP"));
             Console.WriteLine("The index value of Javascript: " + list.IndexOf("Javascript"));
             Console.WriteLine("The index value of C++: " + list.IndexOf("C++"));
+
+            // ArrayList Synchronized Method
+            
+            // Creates a synchronized arraylist
+            ArrayList list7 = ArrayList.Synchronized(list);
+
+            // Displays whether the ArrayList is Synchronized or not
+            Console.WriteLine();
+            Console.WriteLine("ArrayList Synchronized or not: ");
+            Console.WriteLine("ArrayList list is: {0}", list.IsSynchronized ? "Synchronized" : "Not-Synchronized");
+            Console.WriteLine("ArrayList list is: {0}", list7.IsSynchronized ? "Synchronized" : "Not-Synchronized");
         }
 
         // Pass ArrayList as Argument
