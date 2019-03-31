@@ -47,14 +47,13 @@ namespace Day22_BinarySearchTrees
     {
         static int getHeight(Node root)
         {
-            //Write your code here
-            
             // If the tree is empty
             if(root == null)
             {
                 return -1;
             }
-            return 1 + Math.Max(getHeight(root.left), (getHeight(root.right)));
+            // height of the tree calculated using recursion 
+            return 1 + Math.Max(getHeight(root.left), getHeight(root.right));
         }
 
         static Node insert(Node root, int data)
