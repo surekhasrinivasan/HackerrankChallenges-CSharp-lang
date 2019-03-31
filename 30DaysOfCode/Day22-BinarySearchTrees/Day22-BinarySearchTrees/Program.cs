@@ -48,6 +48,13 @@ namespace Day22_BinarySearchTrees
         static int getHeight(Node root)
         {
             //Write your code here
+            
+            // If the tree is empty
+            if(root == null)
+            {
+                return -1;
+            }
+            return 1 + Math.Max(getHeight(root.left), (getHeight(root.right)));
         }
 
         static Node insert(Node root, int data)
@@ -72,18 +79,20 @@ namespace Day22_BinarySearchTrees
                 return root;
             }
         }
-
         static void Main(string[] args)
         {
             Node root = null;
+            Console.WriteLine("Enter the number of nodes in the tree: ");
             int T = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter the data, that is the value of an element: ");
             while (T-- > 0)
             {
                 int data = Int32.Parse(Console.ReadLine());
                 root = insert(root, data);
             }
             int height = getHeight(root);
-            Console.WriteLine(height);
+            Console.WriteLine("The height of the tree is: {0}", height);
         }
     }
 }
