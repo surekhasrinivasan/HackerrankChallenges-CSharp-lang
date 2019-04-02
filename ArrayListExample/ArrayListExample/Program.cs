@@ -37,6 +37,18 @@ namespace ArrayListExample
             list.Add("Java");
             list.Add("Ruby");
 
+            // Convert an ArrayList to Array
+            // Create an Array
+            string[] strArray = list.ToArray(typeof(string)) as string[];
+            Console.WriteLine();
+            Console.WriteLine("ArrayList elements are copied to array");
+            Console.WriteLine("The elements of the array are: ");
+            foreach(string value in strArray)
+            {
+                Console.WriteLine(value);
+            }
+            Console.WriteLine();
+
             ArrayList list3 = new ArrayList();
             list3.Add("PHP");
             list3.Add("C");
