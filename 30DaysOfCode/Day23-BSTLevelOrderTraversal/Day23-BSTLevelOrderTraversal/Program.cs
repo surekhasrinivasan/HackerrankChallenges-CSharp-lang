@@ -73,7 +73,10 @@ namespace Day23_BSTLevelOrderTraversal
         static void Main(String[] args)
         {
             Node root = null;
+
+            Console.WriteLine("Enter the number of test cases: ");
             int T = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Enter data element that must be added to the BST: ");
             while (T-- > 0)
             {
                 int data = Int32.Parse(Console.ReadLine());
