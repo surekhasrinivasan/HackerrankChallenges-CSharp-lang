@@ -70,6 +70,7 @@ namespace Day23_BSTLevelOrderTraversal
                 {
                     queue.Enqueue(tree.left);
                 }
+                // if tree has non-empty right subtree
                 if(tree.right != null)
                 {
                     queue.Enqueue(tree.right);
