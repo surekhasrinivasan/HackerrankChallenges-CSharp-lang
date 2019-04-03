@@ -30,7 +30,7 @@ namespace Day23_BSTLevelOrderTraversal
      * 3 2 5 1 4 7 
      */
 
-    class Node
+    public class Node
     {
         public Node left, right;
         public int data;
@@ -41,14 +41,45 @@ namespace Day23_BSTLevelOrderTraversal
         }
     }
 
-    class Program
+    public class Program
     {
-        static void levelOrder(Node root)
+        public static string data { get; private set; }
+
+        public static void levelOrder(Node root)
         {
             //Write your code here
+            Queue<Node> queue = new Queue<Node>(); 
+
+            // if root is not empty
+            if(root != null)
+            {
+                // enqueue current root
+                queue.Enqueue(root);
+            }
+            // while there are nodes to process 
+            while(queue.Count > 0)
+            {
+                // dequeue next node
+                Node tree = queue.Dequeue();
+
+                // process tree's root
+                // enqueue child elements from next level in order
+
+                // if tree has non-empty left subtree
+                if(tree.left != null)
+                {
+                    queue.Enqueue(tree.left);
+                }
+                if(tree.right != null)
+                {
+                    queue.Enqueue(tree.right);
+                }
+                Console.Write(tree.data + " ");                
+            }
+            Console.WriteLine();
         }
 
-        static Node insert(Node root, int data)
+        public static Node insert(Node root, int data)
         {
             if (root == null)
             {
