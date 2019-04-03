@@ -47,30 +47,20 @@ namespace Day23_BSTLevelOrderTraversal
 
         public static void levelOrder(Node root)
         {
-            //Write your code here
             Queue<Node> queue = new Queue<Node>(); 
 
-            // if root is not empty
             if(root != null)
             {
-                // enqueue current root
                 queue.Enqueue(root);
             }
-            // while there are nodes to process 
             while(queue.Count > 0)
             {
-                // dequeue next node
                 Node tree = queue.Dequeue();
 
-                // process tree's root
-                // enqueue child elements from next level in order
-
-                // if tree has non-empty left subtree
-                if(tree.left != null)
+                if (tree.left != null)
                 {
                     queue.Enqueue(tree.left);
                 }
-                // if tree has non-empty right subtree
                 if(tree.right != null)
                 {
                     queue.Enqueue(tree.right);
