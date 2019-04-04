@@ -94,7 +94,9 @@ namespace Day24_MoreLinkedLists
         static void Main(string[] args)
         {
             Node head = null;
+            Console.WriteLine("Enter the number of Nodes: ");
             int T = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the  data value of a node being inserted at the list's tail: ");
             while (T-- > 0)
             {
                 int data = Int32.Parse(Console.ReadLine());
