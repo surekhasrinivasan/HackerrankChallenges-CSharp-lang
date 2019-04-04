@@ -57,8 +57,20 @@ namespace Day24_MoreLinkedLists
     class Program
     {
         public static Node removeDuplicates(Node head)
-        {
-            //Write your code here
+        {            
+            Node tempHead = head;
+            while(tempHead.next != null)
+            {
+                if(tempHead.data == tempHead.next.data)
+                {
+                    tempHead.next = tempHead.next.next;
+                }
+                else
+                {
+                    tempHead = tempHead.next;
+                }
+            }
+            return head;
         }
 
         public static Node insert(Node head, int data)
@@ -104,6 +116,7 @@ namespace Day24_MoreLinkedLists
             }
             head = removeDuplicates(head);
             display(head);
+            Console.WriteLine();
         }
     }
 }
