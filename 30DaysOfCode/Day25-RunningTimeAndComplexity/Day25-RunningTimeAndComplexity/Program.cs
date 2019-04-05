@@ -30,6 +30,32 @@ namespace Day25_RunningTimeAndComplexity
      */
     class Program
     {
+        public static void isPrime(int num)
+        {
+            bool isPrime = true;
+            if(num == 1)
+            {
+                isPrime = false;
+            }
+
+            for(int i = 2; i <= Math.Sqrt(num); i++)
+            {
+                if(num % i == 0)
+                {
+                    isPrime = false;
+                    break;
+                }
+            }
+            if (isPrime)
+            {
+                Console.WriteLine("Prime");
+            }
+            else
+            {
+                Console.WriteLine("Not prime");
+            }
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the number of testcases: ");
@@ -37,7 +63,8 @@ namespace Day25_RunningTimeAndComplexity
             Console.WriteLine("Enter the integers to be tested for primality: ");
             while (T-- > 0)
             {
-                int input = Convert.ToInt32(Console.ReadLine()); 
+                int input = Convert.ToInt32(Console.ReadLine());
+                isPrime(input);
             }
         }
     }
