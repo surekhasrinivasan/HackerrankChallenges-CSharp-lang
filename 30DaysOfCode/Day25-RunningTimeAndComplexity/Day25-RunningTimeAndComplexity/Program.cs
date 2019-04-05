@@ -32,6 +32,13 @@ namespace Day25_RunningTimeAndComplexity
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter the number of testcases: ");
+            int T = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the integers to be tested for primality: ");
+            while (T-- > 0)
+            {
+                int input = Convert.ToInt32(Console.ReadLine()); 
+            }
         }
     }
 }
