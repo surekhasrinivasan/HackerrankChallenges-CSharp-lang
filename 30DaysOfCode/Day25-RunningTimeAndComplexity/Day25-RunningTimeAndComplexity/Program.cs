@@ -37,8 +37,8 @@ namespace Day25_RunningTimeAndComplexity
             {
                 isPrime = false;
             }
-
-            for(int i = 2; i <= Math.Sqrt(num); i++)
+            // If a number is divisible by another number less or equal to the square root of the first number. it is NOT prime.
+            for (int i = 2; i <= Math.Sqrt(num); i++)
             {
                 if(num % i == 0)
                 {
