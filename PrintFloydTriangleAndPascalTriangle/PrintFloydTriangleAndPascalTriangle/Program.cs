@@ -25,7 +25,28 @@ namespace PrintFloydTriangleAndPascalTriangle
                 }
                 Console.WriteLine("\n");
             }
-            Console.ReadLine();
+            //Console.ReadLine();
+
+            Console.WriteLine("Pascal's Triangle Program: \n");
+            Console.WriteLine("Enter the number of rows: ");
+            int numberOfRows = Convert.ToInt32(Console.ReadLine());
+
+            for(int a = 0; a < numberOfRows; a++)
+            {
+                int c = 1;
+                for(int b = 0; b < numberOfRows - a; b++)
+                {
+                    Console.Write("   ");
+                }
+                for(int d = 0; d <= a; d++)
+                {
+                    Console.Write("    {0:D}  ", c);
+                    c = c * (a - d) / (d + 1);
+                }
+                Console.WriteLine();
+                Console.WriteLine();
+            }
+            Console.WriteLine();
         }
     }
 }
