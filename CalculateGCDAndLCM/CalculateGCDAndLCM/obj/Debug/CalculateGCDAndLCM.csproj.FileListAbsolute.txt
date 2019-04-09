@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\bin\Debug\CalculateGCDAndLCM.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\bin\Debug\CalculateGCDAndLCM.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\bin\Debug\CalculateGCDAndLCM.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\obj\Debug\CalculateGCDAndLCM.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\obj\Debug\CalculateGCDAndLCM.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\obj\Debug\CalculateGCDAndLCM.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CalculateGCDAndLCM\CalculateGCDAndLCM\obj\Debug\CalculateGCDAndLCM.pdb
