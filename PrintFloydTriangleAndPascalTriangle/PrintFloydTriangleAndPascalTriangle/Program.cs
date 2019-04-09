@@ -13,8 +13,11 @@ namespace PrintFloydTriangleAndPascalTriangle
         {
             // Floyd's Triangle 
             Console.WriteLine("Floyd's Triangle Program: \n");
+            Console.WriteLine("Enter the number of rows: ");
+            int rows = Convert.ToInt32(Console.ReadLine());
+
             int i, j, k = 1;
-            for(i = 1; i <= 10; i++)
+            for(i = 1; i <= rows; i++)
             {
                 for(j = 1; j < i + 1; j++)
                 {
