@@ -24,6 +24,12 @@ namespace CalculateGCDAndLCM
             }
             return number1;
         }
+
+        static int GetLCM(int number1, int number2)
+        {
+            return (number1 * number2) / GetGCD(number1, number2);
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Enter first number: ");
@@ -34,6 +40,9 @@ namespace CalculateGCDAndLCM
 
             int gcd = GetGCD(num1, num2);
             Console.WriteLine("The greatest common divisor is: {0}", gcd);
+
+            int lcm = GetLCM(num1, num2);
+            Console.WriteLine("The LCM of two numbers is: {0}", lcm);
         }
     }
 }
