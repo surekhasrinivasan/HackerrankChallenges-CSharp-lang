@@ -40,7 +40,7 @@ namespace PrintFloydTriangleAndPascalTriangle
                 }
                 for(int d = 0; d <= a; d++)
                 {
-                    Console.Write("    {0:D}  ", c);
+                    Console.Write("   {0}  ", c);
                     c = c * (a - d) / (d + 1);
                 }
                 Console.WriteLine();
