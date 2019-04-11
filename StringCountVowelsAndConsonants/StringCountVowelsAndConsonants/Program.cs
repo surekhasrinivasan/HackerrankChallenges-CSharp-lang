@@ -11,6 +11,14 @@ namespace StringCountVowelsAndConsonants
     {
         static void Main(string[] args)
         {
+            char[] sentence = new char[100];
+            
+            int i, vowels = 0, consonants = 0, specialChars = 0, lengthOfTheString;
+
+            Console.WriteLine("Enter the length of the string to count its vowels and consonants: ");
+            lengthOfTheString = Convert.ToInt32(Console.ReadLine());
+
+            
         }
     }
 }
