@@ -33,7 +33,7 @@ namespace StringCountVowelsAndConsonants
                 {
                     consonants = consonants + 1;
                 }
-                if (sentence[i] == '\0' || sentence[i] == ' ')
+                if (sentence[i] == '\0' || sentence[i] == ' ' || sentence[i] == '@')
                 {
                    specialChars = specialChars + 1;
                 }                
