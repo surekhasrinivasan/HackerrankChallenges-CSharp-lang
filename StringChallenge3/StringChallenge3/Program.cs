@@ -18,6 +18,10 @@ namespace StringChallenge3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a string: ");
+            string inputStr = Console.ReadLine();
+
+            Console.WriteLine(ReplaceSpace.Replace(inputStr));           
         }
     }
 }
