@@ -8,9 +8,11 @@ namespace StringChallenge3
 {
     public static class ReplaceSpace
     {
-        public static string Replace(string s)
+        public static string Replace(string str)
         {
-        
+            str = str.Trim();
+            str = str.Replace(" ", "%20");
+            return str;        
         }
     }
 }
