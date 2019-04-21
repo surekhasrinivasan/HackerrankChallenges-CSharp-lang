@@ -21,7 +21,12 @@ namespace CodingPuzzles
 
         private static void MoveZeroToEnd(int[] x, int index)
         {
-
+            for(int i = index; i < x.Length-1; i++)
+            {
+                int temp = x[i];
+                x[i] = x[i + 1];
+                x[i + 1] = temp;
+            }
         }
     }
 }
