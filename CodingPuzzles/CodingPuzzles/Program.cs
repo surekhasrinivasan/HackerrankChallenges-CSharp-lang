@@ -19,6 +19,15 @@ namespace CodingPuzzles
          */
         static void Main(string[] args)
         {
+            int[] nums = { 5, 0, 2, 0, 9, 3, 0, 5, 6 };
+
+            Console.WriteLine("The integer array after implementing MoveZerosToEnd method: ");
+            for(int i = 0; i < nums.Length; i++)
+            {
+                MoveZeros.Move(nums);
+                Console.Write(nums[i] + " ");
+            }
+            Console.WriteLine(); ;
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\bin\Debug\CodingPuzzles.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\bin\Debug\CodingPuzzles.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\bin\Debug\CodingPuzzles.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\obj\Debug\CodingPuzzles.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\obj\Debug\CodingPuzzles.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\obj\Debug\CodingPuzzles.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\CodingPuzzles\CodingPuzzles\obj\Debug\CodingPuzzles.pdb
