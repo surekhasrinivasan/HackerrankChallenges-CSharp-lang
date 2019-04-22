@@ -14,6 +14,7 @@ namespace TargetSumChallenge
             int[] arr = { 1, 2, 3, 4 };
             int target = 5;
 
+            Console.WriteLine("Sum of two integers in an array is equal to target integer true/false: ");
             Console.WriteLine(TargetSum.TwoIntegersSumToTarget(arr, target));            
         }
     }
