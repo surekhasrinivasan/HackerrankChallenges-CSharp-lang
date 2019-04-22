@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\bin\Debug\TargetSumChallenge.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\bin\Debug\TargetSumChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\bin\Debug\TargetSumChallenge.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\obj\Debug\TargetSumChallenge.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\obj\Debug\TargetSumChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\obj\Debug\TargetSumChallenge.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\TargetSumChallenge\TargetSumChallenge\obj\Debug\TargetSumChallenge.pdb

@@ -11,6 +11,10 @@ namespace TargetSumChallenge
     {
         static void Main(string[] args)
         {
+            int[] arr = { 1, 2, 3, 4 };
+            int target = 5;
+
+            Console.WriteLine(TargetSum.TwoIntegersSumToTarget(arr, target));            
         }
     }
 }
