@@ -15,7 +15,13 @@ namespace TargetSumChallenge
             int target = 5;
 
             Console.WriteLine("Sum of two integers in an array is equal to target integer true/false: ");
-            Console.WriteLine(TargetSum.TwoIntegersSumToTarget(arr, target));            
+            Console.WriteLine(TargetSum.TwoIntegersSumToTarget(arr, target));
+
+            int[] arr2 = { 3, 4, 5, 6 };
+            int targetInt = 13;
+
+            Console.WriteLine("Sum of two integers in an array is equal to target integer true/false: ");
+            Console.WriteLine(TargetSum.TwoIntegersSumToTarget(arr2, targetInt));
         }
     }
 }
