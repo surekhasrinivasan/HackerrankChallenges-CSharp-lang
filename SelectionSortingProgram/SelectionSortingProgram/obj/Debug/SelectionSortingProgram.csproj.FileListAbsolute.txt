@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\obj\Debug\SelectionSortingProgram.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\obj\Debug\SelectionSortingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\bin\Debug\SelectionSortingProgram.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\bin\Debug\SelectionSortingProgram.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\bin\Debug\SelectionSortingProgram.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\obj\Debug\SelectionSortingProgram.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SelectionSortingProgram\SelectionSortingProgram\obj\Debug\SelectionSortingProgram.pdb
