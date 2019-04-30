@@ -13,6 +13,10 @@ namespace ArmstrongNumbers
     {
         static void Main(string[] args)
         {
+            int number, remainder, sum = 0; 
+            Console.WriteLine("Enter a number: ");
+            number = Convert.ToInt32(Console.ReadLine());
+            
         }
     }
 }
