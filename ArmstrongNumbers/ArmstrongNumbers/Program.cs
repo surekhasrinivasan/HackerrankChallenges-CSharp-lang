@@ -16,7 +16,22 @@ namespace ArmstrongNumbers
             int number, remainder, sum = 0; 
             Console.WriteLine("Enter a number: ");
             number = Convert.ToInt32(Console.ReadLine());
-            
+
+            for (int i = number; i > 0; i = i / 10)
+            {
+                remainder = i % 10;
+                sum = sum + remainder * remainder * remainder;
+            }
+
+            if(sum == number)
+            {
+                Console.WriteLine("Entered number is armstron number");
+            }
+            else
+            {
+                Console.WriteLine("Entered number is not armstrong number");
+            }
+            Console.ReadLine();
         }
     }
 }
