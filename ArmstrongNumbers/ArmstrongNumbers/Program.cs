@@ -25,7 +25,7 @@ namespace ArmstrongNumbers
 
             if(sum == number)
             {
-                Console.WriteLine("Entered number is armstron number");
+                Console.WriteLine("Entered number is armstrong number");
             }
             else
             {
@@ -34,4 +34,21 @@ namespace ArmstrongNumbers
             Console.ReadLine();
         }
     }
+}
+
+/// Another method to solve above challenge
+/// 
+bool IsArmstrong(int number)
+{
+    var digitsCount = (int)Math.Floor(Math.Log10(number)) + 1;
+    var total = 0;
+    var tmp = number;
+    for (var i = 0; i < digitsCount; i++)
+    {
+        var digit = tmp % 10;
+        total += (int)Math.Pow(digit, digitsCount);
+        tmp = tmp / 10;
+    }
+
+    return total == number;
 }
