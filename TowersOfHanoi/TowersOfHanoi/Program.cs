@@ -25,10 +25,10 @@ namespace TowersOfHanoi
         static void Main(string[] args)
         {
             //Solving the Towers of Hanoi challenge using Recursion
-            char startPeg = 'A';
-            char endPeg = 'C';
-            char tempPeg = 'B';
-            int totalDisks = 3;
+            char startPeg = 'A'; // Start tower in output
+            char endPeg = 'C'; // end tower in output
+            char tempPeg = 'B'; // temporary tower in out put
+            int totalDisks = 3; // number of disks 
 
             SolveTowers(totalDisks, startPeg, endPeg, tempPeg);
 
