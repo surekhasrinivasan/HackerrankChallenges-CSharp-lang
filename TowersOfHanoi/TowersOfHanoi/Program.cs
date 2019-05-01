@@ -25,17 +25,22 @@ namespace TowersOfHanoi
         static void Main(string[] args)
         {
             //Solving the Towers of Hanoi challenge using Recursion
+            char startPeg = 'A';
+            char endPeg = 'C';
+            char tempPeg = 'B';
+            int totalDisks = 3;
 
+            SolveTowers(totalDisks, startPeg, endPeg, tempPeg);
 
         }
 
-        public static void solveTowers(int n, char startPeg, char endPeg, char tempPeg)
+        public static void SolveTowers(int n, char startPeg, char endPeg, char tempPeg)
         {
             if(n > 0)
             {
-                solveTowers(n - 1, startPeg, tempPeg, endPeg);
-                Console.WriteLine("Move disk from " + startPeg+ ' '+endPeg);
-                solveTowers(n - 1, tempPeg, endPeg, startPeg);
+                SolveTowers(n - 1, startPeg, tempPeg, endPeg);
+                Console.WriteLine("Move disk from " + startPeg + " to " + endPeg);
+                SolveTowers(n - 1, tempPeg, endPeg, startPeg);
             }
         } 
     }
