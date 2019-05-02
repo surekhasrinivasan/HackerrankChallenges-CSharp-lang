@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\bin\Debug\RemoveSpecialChars.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\bin\Debug\RemoveSpecialChars.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\bin\Debug\RemoveSpecialChars.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\obj\Debug\RemoveSpecialChars.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\obj\Debug\RemoveSpecialChars.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\obj\Debug\RemoveSpecialChars.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\RemoveSpecialChars\RemoveSpecialChars\obj\Debug\RemoveSpecialChars.pdb

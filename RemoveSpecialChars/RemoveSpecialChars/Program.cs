@@ -11,7 +11,8 @@ namespace RemoveSpecialChars
     {
         static void Main(string[] args)
         {
-
+            string str = "$c!sh$arp&la%ng#u,a^g@e";
+            Console.WriteLine(RemoveSpecialCharacters(str));
         }
 
         public static string RemoveSpecialCharacters(string str)
