@@ -13,6 +13,11 @@ namespace NullDateTimeProgram
         {
             // Declare a nullable DateTime instance and assign to null
             DateTime? value = null;
+            NullDateTimeLogic(value);
+            value = DateTime.Now;
+            NullDateTimeLogic(value);
+            value = DateTime.Now.AddDays(1);
+            NullDateTimeLogic(value);
         }
 
         static void NullDateTimeLogic(DateTime? value)
