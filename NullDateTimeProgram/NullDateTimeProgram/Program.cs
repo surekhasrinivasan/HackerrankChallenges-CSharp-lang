@@ -17,7 +17,15 @@ namespace NullDateTimeProgram
 
         static void NullDateTimeLogic(DateTime? value)
         {
-
+            // This method uses the HasValue property. If there is no value, then the output will be zero.
+            if (value.HasValue)
+            {
+                Console.WriteLine(value.Value);
+            }
+            else
+            {
+                Console.WriteLine(0);
+            }
         }
     }
 }
