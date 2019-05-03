@@ -18,6 +18,10 @@ namespace NullDateTimeProgram
             NullDateTimeLogic(value);
             value = DateTime.Now.AddDays(1);
             NullDateTimeLogic(value);
+
+            // you can use the GetValueOrDefault method on nulls
+            value = null;
+            Console.WriteLine(value.GetValueOrDefault());
         }
 
         static void NullDateTimeLogic(DateTime? value)
