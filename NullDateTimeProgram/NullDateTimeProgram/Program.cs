@@ -11,6 +11,13 @@ namespace NullDateTimeProgram
     {
         static void Main(string[] args)
         {
+            // Declare a nullable DateTime instance and assign to null
+            DateTime? value = null;
+        }
+
+        static void NullDateTimeLogic(DateTime? value)
+        {
+
         }
     }
 }
