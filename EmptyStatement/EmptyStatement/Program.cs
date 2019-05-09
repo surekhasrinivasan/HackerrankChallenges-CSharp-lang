@@ -37,6 +37,15 @@ namespace EmptyStatement
         {
 
         }
+        static int num;
+
+        static bool Method()
+        {
+            // Write the number, increment and then return a bool
+            Console.WriteLine(num);
+            num++;
+            return num < 10;
+        }
     }
 
 }
