@@ -35,6 +35,10 @@ namespace EmptyStatement
     {
         static void Main()
         {
+            while (Method())
+            {
+                ; // Empty statement
+            }
 
         }
         static int num;
