@@ -12,6 +12,13 @@ namespace ProgramToKillAThread
     {
         static void Main(string[] args)
         {
+            ThreadingClass th = new ThreadingClass();
+            Thread thread1 = new Thread(th.DoStuff);
+            thread1.Start();
+            Console.WriteLine("Press any key to exit!!!");
+            Console.ReadKey();
+            th.Stop();
+            thread1.Join();
         }
     }
 
