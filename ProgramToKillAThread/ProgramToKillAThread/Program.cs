@@ -13,4 +13,9 @@ namespace ProgramToKillAThread
         {
         }
     }
+
+    public class ThreadingClass
+    {
+
+    }
 }
