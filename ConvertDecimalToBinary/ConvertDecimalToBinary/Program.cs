@@ -12,7 +12,22 @@ namespace ConvertDecimalToBinary
         static void Main(string[] args)
         {
             Console.WriteLine("Enter a decimal number: ");
-            int number = Convert.ToInt32(Console.ReadLine());
+            int decimalNumber = Convert.ToInt32(Console.ReadLine());
+            int quotient;
+            string remainder = " ";
+            while(decimalNumber >= 1)
+            {
+                quotient = decimalNumber / 2;
+                remainder += (decimalNumber % 2).ToString();
+                decimalNumber = quotient;
+            }
+            string binaryNum = " ";
+            for(int i = remainder.Length - 1; i >=0; i--)
+            {
+                binaryNum = binaryNum + remainder[i];
+            }
+            Console.WriteLine("The Binary number format for a given number is: {0}", binaryNum);
+            Console.Read();
         }
     }
 }
