@@ -11,6 +11,8 @@ namespace ConvertDecimalToBinary
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Enter a decimal number: ");
+            int number = Convert.ToInt32(Console.ReadLine());
         }
     }
 }
