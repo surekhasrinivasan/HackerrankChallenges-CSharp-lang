@@ -27,7 +27,7 @@ namespace ConvertDecimalToBinary
                 binaryNum = binaryNum + remainder[i];
             }
             Console.WriteLine("The Binary number format for a given number is: {0}", binaryNum);
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
