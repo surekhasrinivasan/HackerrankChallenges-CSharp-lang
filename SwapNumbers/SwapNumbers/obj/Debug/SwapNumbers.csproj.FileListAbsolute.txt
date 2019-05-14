@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\bin\Debug\SwapNumbers.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SwapNumbers\SwapNumbers\obj\Debug\SwapNumbers.pdb

@@ -13,6 +13,15 @@ namespace SwapNumbers
     {
         static void Main(string[] args)
         {
+            int first, second;
+            first = 100;
+            second = 200;
+            first = first + second;
+            second = first - second;
+            first = first - second;
+            Console.WriteLine(first.ToString());
+            Console.WriteLine(second.ToString());
+            Console.ReadLine();
         }
     }
 }
