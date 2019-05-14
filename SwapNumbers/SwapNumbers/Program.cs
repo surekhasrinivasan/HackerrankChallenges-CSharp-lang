@@ -31,8 +31,17 @@ namespace SwapNumbers
     {
         static void Main(string[] args)
         {
-            
+            int first, second;
+            first = 100;
+            second = 200;
+            // swap numbers using XOR
+
+            first = second ^ first;
+            second = second ^ first;
+            first = first ^ second;
+            Console.WriteLine("first = " + first.ToString());
+            Console.WriteLine("second = " + second.ToString());
+            Console.ReadLine();
         }
     }
-
 }
