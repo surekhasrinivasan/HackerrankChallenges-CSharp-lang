@@ -17,6 +17,13 @@ namespace InsertionSortingProgram
     {
         static void Main(string[] args)
         {
+            int[] arr = new int[5] { 83, 12, 3, 34, 60 };
+            int i;
+            Console.WriteLine("The array is before sorting: ");
+            for(i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + " ");
+            }
         }
     }
 }
