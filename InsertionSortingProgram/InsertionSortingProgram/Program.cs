@@ -24,7 +24,16 @@ namespace InsertionSortingProgram
             { 
                 Console.Write(arr[i] + " ");
             }
-            
+            Console.WriteLine();
+
+            InsertSort(arr, 5);
+
+            Console.WriteLine("The array after sorting: ");
+            for (i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i] + " ");
+            }
+            Console.WriteLine();
 
         }
 
@@ -35,7 +44,7 @@ namespace InsertionSortingProgram
             {
                 int item = inputArr[i];
                 int ins = 0; 
-                for(j = i-1, j >= 0 && ins != 1; )
+                for(j = i-1; j >= 0 && ins != 1;)
                 {
                     if (item < inputArr[j])
                     {
