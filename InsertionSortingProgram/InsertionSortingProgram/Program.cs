@@ -19,10 +19,35 @@ namespace InsertionSortingProgram
         {
             int[] arr = new int[5] { 83, 12, 3, 34, 60 };
             int i;
-            Console.WriteLine("The array is before sorting: ");
+            Console.WriteLine("The array before sorting: ");
             for(i = 0; i < arr.Length; i++)
-            {
+            { 
                 Console.Write(arr[i] + " ");
+            }
+            
+
+        }
+
+        static void InsertSort(int[] inputArr, int n)
+        {
+            int i, j;
+            for(i = 1; i < n; i++)
+            {
+                int item = inputArr[i];
+                int ins = 0; 
+                for(j = i-1, j >= 0 && ins != 1; )
+                {
+                    if (item < inputArr[j])
+                    {
+                        inputArr[j + 1] = inputArr[j];
+                        j--;
+                        inputArr[j + 1] = item;
+
+                    }
+                    else
+                        ins = 1;
+                }
+
             }
         }
     }
