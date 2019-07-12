@@ -16,6 +16,18 @@ namespace ReverseCharacters
 
             // Read the user string from console
             string userString = Console.ReadLine();
+
+            // The simple way to reverse a string is to use
+            // the built-in .net framework Reverse() function
+            List<char> StringChars = userString.Reverse().ToList();
+
+            // Finally print each character from the collection
+            foreach(char c in StringChars)
+            {
+                Console.Write(c);
+            }
+            Console.WriteLine();
+            Console.ReadLine();
         }
     }
 }
