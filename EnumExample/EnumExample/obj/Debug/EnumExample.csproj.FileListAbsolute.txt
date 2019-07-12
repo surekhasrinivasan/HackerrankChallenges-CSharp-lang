@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\obj\Debug\EnumExample.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\obj\Debug\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\EnumExample\EnumExample\obj\Debug\EnumExample.pdb
