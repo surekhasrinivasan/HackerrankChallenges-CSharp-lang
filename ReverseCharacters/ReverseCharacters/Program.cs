@@ -11,6 +11,11 @@ namespace ReverseCharacters
     {
         static void Main(string[] args)
         {
+            // Prompt the user to enter the string
+            Console.WriteLine("Please enter your string: ");
+
+            // Read the user string from console
+            string userString = Console.ReadLine();
         }
     }
 }
