@@ -14,12 +14,26 @@ namespace ArmstrongNumberAlgorithm
     {
         static void Main(string[] args)
         {
+            int num, sum = 0, remainder, temp; 
+
             // Prompt user for the input number
             Console.WriteLine("Enter the number: ");
 
             // Convert the string to integer
-            int num = Convert.ToInt32(Console.ReadLine());
+            num = Convert.ToInt32(Console.ReadLine());
 
+            temp = num;
+
+            while(num > 0)
+            {
+                remainder = num % 10;
+
+                sum = sum + (remainder * remainder * remainder);
+
+                num = num / 10;
+            }
+
+            
         }
     }
 }
