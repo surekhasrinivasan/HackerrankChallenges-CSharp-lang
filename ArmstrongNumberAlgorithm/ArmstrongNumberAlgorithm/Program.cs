@@ -14,6 +14,12 @@ namespace ArmstrongNumberAlgorithm
     {
         static void Main(string[] args)
         {
+            // Prompt user for the input number
+            Console.WriteLine("Enter the number: ");
+
+            // Convert the string to integer
+            int num = Convert.ToInt32(Console.ReadLine());
+
         }
     }
 }
