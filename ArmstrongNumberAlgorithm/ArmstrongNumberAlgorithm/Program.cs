@@ -32,8 +32,14 @@ namespace ArmstrongNumberAlgorithm
 
                 num = num / 10;
             }
-
-            
+            if(sum == temp)
+            {
+                Console.WriteLine("Armstrong Number");
+            }
+            else
+            {
+                Console.WriteLine("Not Armstrong Number");
+            }            
         }
     }
 }

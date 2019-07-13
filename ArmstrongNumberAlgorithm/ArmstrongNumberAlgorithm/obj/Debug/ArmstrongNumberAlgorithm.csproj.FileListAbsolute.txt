@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\bin\Debug\ArmstrongNumberAlgorithm.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\bin\Debug\ArmstrongNumberAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\bin\Debug\ArmstrongNumberAlgorithm.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\obj\Debug\ArmstrongNumberAlgorithm.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\obj\Debug\ArmstrongNumberAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\obj\Debug\ArmstrongNumberAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\ArmstrongNumberAlgorithm\ArmstrongNumberAlgorithm\obj\Debug\ArmstrongNumberAlgorithm.pdb
