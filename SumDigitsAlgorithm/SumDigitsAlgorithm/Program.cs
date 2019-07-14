@@ -26,7 +26,8 @@ namespace SumDigitsAlgorithm
                 sum = sum + remainder;
                 num = num / 10;
             }
-
+            Console.Write("Sum is: " + sum);
+            Console.ReadLine();
         }
     }
 }

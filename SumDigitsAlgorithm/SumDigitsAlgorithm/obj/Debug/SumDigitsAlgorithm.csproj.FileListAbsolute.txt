@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\bin\Debug\SumDigitsAlgorithm.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\bin\Debug\SumDigitsAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\bin\Debug\SumDigitsAlgorithm.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\obj\Debug\SumDigitsAlgorithm.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\obj\Debug\SumDigitsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\obj\Debug\SumDigitsAlgorithm.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\SumDigitsAlgorithm\SumDigitsAlgorithm\obj\Debug\SumDigitsAlgorithm.pdb
