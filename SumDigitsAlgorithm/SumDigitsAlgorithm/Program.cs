@@ -12,6 +12,14 @@ namespace SumDigitsAlgorithm
     {
         static void Main(string[] args)
         {
+            int num, sum = 0, remainder;
+
+            // Prompt the user for input number
+            Console.WriteLine("Enter a number: ");
+
+            // convert string to integer
+            num = int.Parse(Console.ReadLine());
+
         }
     }
 }
