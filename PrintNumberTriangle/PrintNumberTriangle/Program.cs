@@ -11,6 +11,13 @@ namespace PrintNumberTriangle
     {
         static void Main(string[] args)
         {
+            int num, i, j, k, l;
+
+            // Prompt the user for the input range
+            Console.WriteLine("Enter the Range: ");
+
+            // convert string to integer
+            num = int.Parse(Console.ReadLine());
         }
     }
 }
