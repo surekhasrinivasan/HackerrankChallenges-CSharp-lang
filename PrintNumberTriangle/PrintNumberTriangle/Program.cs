@@ -18,6 +18,19 @@ namespace PrintNumberTriangle
 
             // convert string to integer
             num = int.Parse(Console.ReadLine());
+
+            for (i = 1; i <= num; i++)
+            {
+                for (j = 1; j <= num - i; j++)
+                {
+                    Console.Write(" ");
+                }
+                for (k = 1; k <= i; k++)
+                {
+                    Console.Write(k);
+                }
+
+            }
         }
     }
 }

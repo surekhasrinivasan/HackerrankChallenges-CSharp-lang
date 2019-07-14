@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\bin\Debug\PrintNumberTriangle.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\bin\Debug\PrintNumberTriangle.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\bin\Debug\PrintNumberTriangle.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintNumberTriangle\PrintNumberTriangle\obj\Debug\PrintNumberTriangle.pdb
