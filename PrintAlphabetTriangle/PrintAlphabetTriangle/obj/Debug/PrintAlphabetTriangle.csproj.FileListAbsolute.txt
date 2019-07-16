@@ -1,0 +1,7 @@
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\bin\Debug\PrintAlphabetTriangle.exe.config
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\bin\Debug\PrintAlphabetTriangle.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\bin\Debug\PrintAlphabetTriangle.pdb
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\obj\Debug\PrintAlphabetTriangle.csprojAssemblyReference.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\obj\Debug\PrintAlphabetTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\obj\Debug\PrintAlphabetTriangle.exe
+C:\Users\Sreenath\source\repos\HackerrankChallenges\PrintAlphabetTriangle\PrintAlphabetTriangle\obj\Debug\PrintAlphabetTriangle.pdb
