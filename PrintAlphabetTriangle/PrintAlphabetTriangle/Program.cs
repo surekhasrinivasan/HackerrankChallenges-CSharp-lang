@@ -11,6 +11,10 @@ namespace PrintAlphabetTriangle
     {
         static void Main(string[] args)
         {
+            char ch = 'A';
+            int i, j, k, m;
+
+            
         }
     }
 }
