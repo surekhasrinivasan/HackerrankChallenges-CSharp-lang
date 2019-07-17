@@ -30,41 +30,42 @@ namespace ConvertNumberToWords
                 switch (r)
                 {
                     case 1:
-                        Console.Write("one");
+                        Console.Write("one ");
                         break;
                     case 2:
-                        Console.Write("two");
+                        Console.Write("two ");
                         break;
                     case 3:
-                        Console.Write("three");
+                        Console.Write("three ");
                         break;
                     case 4:
-                        Console.Write("four");
+                        Console.Write("four ");
                         break;
                     case 5:
-                        Console.Write("five");
+                        Console.Write("five ");
                         break;
                     case 6:
-                        Console.Write("six");
+                        Console.Write("six ");
                         break;
                     case 7:
-                        Console.Write("seven");
+                        Console.Write("seven ");
                         break;
                     case 8:
-                        Console.Write("eight");
+                        Console.Write("eight ");
                         break;
                     case 9:
-                        Console.Write("nine");
+                        Console.Write("nine ");
                         break;
                     case 0:
-                        Console.Write("zero");
+                        Console.Write("zero ");
                         break;
                     default:
                         Console.Write("tttt ");
                         break;
                 } // end of switch
-            }
-
+                n = n / 10;
+            }// end of while loop
+            Console.WriteLine();
         }
     }
 }
