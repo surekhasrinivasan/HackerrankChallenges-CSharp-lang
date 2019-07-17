@@ -11,6 +11,13 @@ namespace ConvertNumberToWords
     {
         static void Main(string[] args)
         {
+            int n, sum = 0, r;
+
+            Console.Write("Enter the Number: ");
+
+            n = int.Parse(Console.ReadLine());
+
+
         }
     }
 }
