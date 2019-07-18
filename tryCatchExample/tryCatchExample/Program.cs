@@ -24,6 +24,12 @@ namespace tryCatchExample
                 int b = 0;
                 int x = a / b;
             }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+
+            }
+            Console.WriteLine("Rest of the code");
         }
     }
 }
