@@ -11,6 +11,17 @@ namespace ExampleForFinally
     {
         static void Main(string[] args)
         {
+            // Example for Finally if exception is handled
+            try
+            {
+                int a = 10;
+                int b = 0;
+                int x = a / b;
+            }
+            catch (Exception e) { Console.WriteLine(e); }
+            
+
+            
         }
     }
 }
