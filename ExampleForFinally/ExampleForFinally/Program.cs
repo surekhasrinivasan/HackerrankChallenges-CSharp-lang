@@ -19,9 +19,8 @@ namespace ExampleForFinally
                 int x = a / b;
             }
             catch (Exception e) { Console.WriteLine(e); }
-            
-
-            
+            finally { Console.WriteLine("Finally block is executed"); }
+            Console.WriteLine("Rest of the code");
         }
     }
 }
