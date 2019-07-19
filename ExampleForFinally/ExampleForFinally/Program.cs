@@ -11,14 +11,25 @@ namespace ExampleForFinally
     {
         static void Main(string[] args)
         {
-            // Example for Finally if exception is handled
+            //// Example for Finally if exception is handled
+            //try
+            //{
+            //    int a = 10;
+            //    int b = 0;
+            //    int x = a / b;
+            //}
+            //catch (Exception e) { Console.WriteLine(e); }
+            //finally { Console.WriteLine("Finally block is executed"); }
+            //Console.WriteLine("Rest of the code");
+
+            // Example for Finally if exception is not handled
             try
             {
                 int a = 10;
                 int b = 0;
                 int x = a / b;
             }
-            catch (Exception e) { Console.WriteLine(e); }
+            catch (NullReferenceException e) { Console.WriteLine(e); }
             finally { Console.WriteLine("Finally block is executed"); }
             Console.WriteLine("Rest of the code");
         }
