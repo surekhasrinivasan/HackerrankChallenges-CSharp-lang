@@ -13,6 +13,9 @@ namespace CsharpCheckedExample
     {
         static void Main(string[] args)
         {
+            // C# Checked Example without using checked
+            int val = int.MaxValue;
+            Console.WriteLine(val + 2);
         }
     }
 }
