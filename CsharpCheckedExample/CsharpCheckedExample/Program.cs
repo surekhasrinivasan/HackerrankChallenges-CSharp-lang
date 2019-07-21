@@ -14,8 +14,15 @@ namespace CsharpCheckedExample
         static void Main(string[] args)
         {
             // C# Checked Example without using checked
-            int val = int.MaxValue;
-            Console.WriteLine(val + 2);
+            //int val = int.MaxValue;
+            //Console.WriteLine(val + 2); // output : -2147483647
+
+            // C# Checked Example using checked
+            checked
+            {
+                int val = int.MaxValue;
+                Console.WriteLine(val + 2); // output: Unhandled Exception: System.OverflowException: Arithmetic operation resulted in an overflow.
+            }
         }
     }
 }
